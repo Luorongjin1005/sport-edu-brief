@@ -1,0 +1,65 @@
+# ================= 体育教育破壁日报 · GitHub Actions 定时任务 =================
+# 用法：把本文件原样放到仓库的 .github/workflows/ 目录下，文件名 daily-brief.yml
+# 触发方式：1) 每天定时  2) 你在网页上手动点「Run workflow」
+# 时区说明：GitHub 的 cron 一律按 UTC 计算，23:55 UTC = 北京时间 07:55
+
+name: 体育教育破壁日报
+
+on:
+  schedule:
+    # 每天 23:55 UTC（北京时间 07:55）触发，预留 Actions 常见的 3~20 分钟排队延迟
+    - cron: "55 23 * * *"
+  workflow_dispatch:        # 允许手动触发，方便部署后第一次测试
+
+permissions:
+  contents: write           # 需要写权限，才能把 out/ 和 data/ 提交回仓库
+
+concurrency:
+  group: daily-brief
+  cancel-in-progress: false
+
+jobs:
+  build-brief:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+
+    steps:
+      - name: 拉取仓库代码
+        uses: actions/checkout@v4
+
+      - name: 准备 Python 环境
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: 抓取、生成、推送日报
+        env:
+          # 这些值来自仓库 Settings → Secrets and variables → Actions
+          # 没配置的会自动跳过对应渠道，不会让任务失败
+          BARK_KEY: ${{ secrets.BARK_KEY }}
+          WXPUSHER_APPTOKEN: ${{ secrets.WXPUSHER_APPTOKEN }}
+          WXPUSHER_UIDS: ${{ secrets.WXPUSHER_UIDS }}
+          FEISHU_WEBHOOK: ${{ secrets.FEISHU_WEBHOOK }}
+          AI_API_KEY: ${{ secrets.AI_API_KEY }}
+          # RAW_BASE 放在 Variables（不是 Secrets），值形如
+          # https://raw.githubusercontent.com/你的用户名/sport-edu-brief/main/
+          RAW_BASE: ${{ vars.RAW_BASE }}
+        run: python sport_brief.py
+
+      - name: 把今日日报和去重记忆提交回仓库
+        if: always()
+        run: |
+          git config user.name "brief-bot"
+          git config user.email "brief-bot@users.noreply.github.com"
+          git add out data || true
+          git commit -m "日报: $(TZ=Asia/Shanghai date +%F)" || echo "本次内容无变化，跳过提交"
+          git push || echo "推送失败：可能无改动或权限不足，不影响日报已生成"
+
+      - name: 上传运行日志（保留 30 天，随时可下载）
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: brief-log-${{ github.run_id }}
+          path: out/logs/
+          retention-days: 30
+          if-no-files-found: warn
