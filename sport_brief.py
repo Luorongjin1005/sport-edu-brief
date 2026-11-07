@@ -72,7 +72,7 @@ AI_MAX_ITEMS = 12              # 只给前 N 条做 AI 摘要，控制花费
 # ---- 1.4 输出与回链 ----
 OUT_DIR = "out"                # 生成文件目录
 DATA_DIR = "data"              # 去重记忆与 7 天历史目录（要提交回仓库）
-RAW_BASE = "https://raw.githubusercontent.com/你的GitHub用户名/sport-edu-brief/main/"  # 结尾必须有斜杠
+RAW_BASE = "https://raw.githubusercontent.com/Luorongjin1005/sport-edu-brief/main/"  # 结尾必须有斜杠
 
 # ============================ ② 标签定义（顺序=日报里的显示顺序）============================
 TAG_ORDER = [
@@ -206,6 +206,17 @@ def log(msg):
     line = "[%s] %s" % (datetime.now(TZ).strftime("%H:%M:%S"), msg)
     print(line, flush=True)
     LOG_LINES.append(line)
+
+
+def flush_log(date_str):
+    """把内存日志写盘。抓取后写一次防崩溃丢失，推送后再写一次补全推送结果"""
+    log_path = os.path.join(OUT_DIR, "logs", "%s.log" % date_str)
+    try:
+        os.makedirs(os.path.dirname(log_path), exist_ok=True)
+        with open(log_path, "w", encoding="utf-8") as f:
+            f.write("\n".join(LOG_LINES))
+    except Exception as e:
+        print("日志落盘失败：%s" % e, flush=True)
 
 
 def http_get(url, timeout=15, retries=2):
@@ -997,9 +1008,7 @@ def main():
     total = sum(len(s["items"]) for s in sections)
 
     # 运行日志落盘（也作为 Actions 的 artifact）
-    log_path = os.path.join(OUT_DIR, "logs", "%s.log" % date_str)
-    with open(log_path, "w", encoding="utf-8") as f:
-        f.write("\n".join(LOG_LINES))
+    flush_log(date_str)
 
     if args.dry_run:
         log("--dry-run 模式：不推送。内容预览：")
@@ -1018,6 +1027,7 @@ def main():
     if EMAIL_ENABLED:
         push_email(render_html(date_str, sections), date_str, total)
     log("===== 运行结束：共 %d 条 =====" % total)
+    flush_log(date_str)   # 推送结果也写进日志，否则你永远看不到"到底推没推成功"
 
 
 if __name__ == "__main__":
