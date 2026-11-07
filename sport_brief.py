@@ -89,6 +89,14 @@ TAG_ORDER = [
 # ============================ ③ 检索词矩阵 ============================
 # tag  = 这条搜索命中的内容默认归到哪个标签
 # q    = Google News 检索式（支持 site: 限定站点）
+# Google News 的 when: 时间限定。界面默认按"相关度"排，老文章会挤满候选；
+# 国际/学术类更新稀疏，窗口给宽；日常政策经济类给 3 天，配合本地 36 小时时效再筛一遍。
+WHEN_BY_TAG = {
+    "国际-PE": "when:30d",
+    "学术-征稿": "when:14d",
+}
+WHEN_DEFAULT = "when:3d"
+
 QUERIES = [
     # —— 政策与规划 ——
     {"tag": "规划-十五五", "q": "十五五 规划 体育"},
@@ -116,7 +124,7 @@ QUERIES = [
     {"tag": "学术-征稿", "q": "学校体育 征文"},
     {"tag": "学术-征稿", "q": "体育教育 课程改革"},
     {"tag": "学术-征稿", "q": "体育学 CSSCI 期刊 目录"},
-    {"tag": "学术-征稿", "q": "AI 学校体育"},
+    {"tag": "深度-行业", "q": "AI 学校体育"},
     {"tag": "学术-征稿", "q": "体育科学学会 征文 通知"},
     # —— 国际 PE ——
     {"tag": "国际-PE", "q": "ICSSPE physical education"},
@@ -443,10 +451,15 @@ def parse_osf(raw_bytes, source_name="SportRxiv"):
 
 
 # ============================ ⑨ 抓取调度 ============================
-def gnews_url(q):
-    """把检索式转成 Google News RSS 地址（无需 API Key，永久免费）"""
+def gnews_url(q, tag=None):
+    """
+    把检索式转成 Google News RSS 地址（无需 API Key，永久免费）。
+    必须带 when: 时间限定，否则 Google 会返回大量几年前的老文章，
+    候选名额被老文章占满，时效过滤后剩不下几条（实测踩过：434/478 条被砍）。
+    """
+    win = WHEN_BY_TAG.get(tag or "", WHEN_DEFAULT)
     return ("https://news.google.com/rss/search?q=%s&hl=zh-CN&gl=CN&ceid=CN:zh-Hans"
-            % urllib.parse.quote(q))
+            % urllib.parse.quote(q + " " + win))
 
 
 def collect(skip_gnews=False, skip_page=False):
@@ -456,7 +469,7 @@ def collect(skip_gnews=False, skip_page=False):
         log("① 关键词检索通道：共 %d 条检索式" % len(QUERIES))
         ok, fail = 0, 0
         for item in QUERIES:
-            url = gnews_url(item["q"])
+            url = gnews_url(item["q"], item["tag"])
             try:
                 raw = http_get(url, timeout=15, retries=1)
                 got = parse_rss(raw, "GoogleNews", item["tag"])
