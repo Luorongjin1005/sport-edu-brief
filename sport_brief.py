@@ -348,6 +348,16 @@ JUNK_TITLE = (r"ICP备|公安备案|备案号|客户端|小程序|官方微博|�
 # 只保留跟体育/教育真正相关的条目标题（英文站点按英文关键词判断）
 PAGE_MUST_KEYWORD = (r"体育|学校|教育|师资|赛事|运动|训练|体质|户外|冰雪|健身|全运|球类|"
                      r"physical education|sport|pedagog|athlet|exercise")
+# 检索通道的领域闸门：Google News 的关键词匹配非常松（搜"十五五规划 体育"
+# 会返回"住房发展规划""防汛应急预案"），必须像页面监控一样过一道领域关键词，
+# 否则日报会被无关文件淹没。英文词覆盖国际/学术类条目。
+DOMAIN_MUST = (r"体育|体教|运动|健身|赛事|竞技|奥运|全运|亚运|球|田径|游泳|冰雪|户外|"
+               r"体质|师资|体育课|运动队|运动员|体育产业|体育消费|体育学|体育科学|"
+               r"学校体育|青少年体育|全民健身|公费师范|师范生|体育教师|体育课程|"
+               r"ICSSPE|AIESEP|FIEP|SportRxiv|EdArXiv|"
+               r"physical education|sport|athlet|exercise|pedagog|kinesiolog|fitness|coach")
+# 同一标签内取样时的通道优先级：官方原文 > 现成 RSS > 预印本 > 关键词检索
+CHANNEL_PRIORITY = ("page", "rss", "osf", "gnews")
 # 导航型 URL：栏目首页、备案站、内部平台，一律不当作"新文件"
 JUNK_URL = (r"beian\.miit\.gov\.cn|beian\.gov\.cn|zongju\.sport\.gov\.cn|/cdn-cgi/|/zt_\d+/|"
             r"/n\d+/index\.html|/index\.html$|javascript:|mailto:")
@@ -450,6 +460,9 @@ def collect(skip_gnews=False, skip_page=False):
             try:
                 raw = http_get(url, timeout=15, retries=1)
                 got = parse_rss(raw, "GoogleNews", item["tag"])
+                # 领域闸门：只留真正含体育/教育关键词的条目（实测这能挡掉约八成噪音）
+                got = [g for g in got
+                       if re.search(DOMAIN_MUST, (g["title"] or "") + " " + (g["summary"] or ""), re.I)]
                 all_items.extend(got)
                 ok += 1
             except Exception as e:
@@ -603,6 +616,43 @@ def apply_summary(items):
 
 
 # ============================ ⑪ 产出文件 ============================
+def _round_robin_by_channel(arr, cap):
+    """
+    同一标签内按通道轮转取样。
+    实测问题：检索通道一次能出上百条，若只按时间倒序取前 6 条，
+    官方页面监控和现成 RSS（最值钱的原文）会被整条挤掉。
+    优先级：页面监控 > 现成 RSS > 预印本 > 关键词检索。
+    """
+    buckets = {}
+    for it in arr:
+        buckets.setdefault(it.get("channel", "gnews"), []).append(it)
+    order = [c for c in CHANNEL_PRIORITY if c in buckets]
+    order += [c for c in buckets if c not in CHANNEL_PRIORITY]
+    out, idx, going = [], 0, True
+    while going and len(out) < cap:
+        going = False
+        for c in order:
+            b = buckets[c]
+            if idx < len(b):
+                out.append(b[idx])
+                going = True
+                if len(out) >= cap:
+                    break
+        idx += 1
+    out.sort(key=lambda x: x.get("pub") or "", reverse=True)
+    return out
+
+
+def trim_sections(sections, cap):
+    """总量控制：从当前条数最多的那一节砍，保证各标签均衡，而不是砍掉靠后的整节"""
+    total = sum(len(s["items"]) for s in sections)
+    while total > cap:
+        victim = max((s for s in sections if s["items"]), key=lambda s: len(s["items"]))
+        victim["items"].pop()
+        total -= 1
+    return [s for s in sections if s["items"]]
+
+
 def build_sections(items):
     groups = {t: [] for t in TAG_ORDER}
     for it in items:
@@ -614,8 +664,8 @@ def build_sections(items):
             continue
         # 有发布时间的按时间倒序，页面监控条目本身已按页面顺序
         arr.sort(key=lambda x: x.get("pub") or "", reverse=True)
-        sections.append({"tag": t, "items": arr[:MAX_ITEMS_PER_TAG]})
-    return sections
+        sections.append({"tag": t, "items": _round_robin_by_channel(arr, MAX_ITEMS_PER_TAG)})
+    return trim_sections(sections, TOTAL_MAX_ITEMS)
 
 
 def render_txt(date_str, sections):
@@ -911,10 +961,11 @@ def main():
     kept = dedup_and_filter(items, seen, history)
     kept = apply_summary(kept)
 
-    # 总量控制
-    if len(kept) > TOTAL_MAX_ITEMS:
-        kept = kept[:TOTAL_MAX_ITEMS]
+    # 总量控制放在 build_sections 内部按"每节均衡"执行。
+    # 不能在这里直接砍 kept 的前 40 条：检索通道排在最前面，
+    # 会把后面 RSS / 预印本 / 页面监控的条目整批挤掉（实测就踩了这个坑）。
     sections = build_sections(kept)
+    kept = [it for s in sections for it in s["items"]]
 
     # 更新历史（保留 7 天，供 RSS feed 与桌面端使用）
     today = date_str
