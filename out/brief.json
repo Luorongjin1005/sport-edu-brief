@@ -1,125 +1,70 @@
 {
- "date": "2026-11-15",
- "generated_at": "2026-11-15 08:25",
- "total": 27,
+ "date": "2026-11-16",
+ "generated_at": "2026-11-16 08:41",
+ "total": 16,
  "sections": [
-  {
-   "tag": "规划-十五五",
-   "items": [
-    {
-     "title": "文件解读：《四川省体育发展“十五五”规划》",
-     "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQRS1BRTVvVVZMeFBzeG9fcElnZEtia0NFYl84c0o5ZEN3NFVxZ1VrNnNOa3JfLTB3bzVMVG9zalRQTFNVT1QzWG42S3AxZnhZMmswY21lVGlXbXpvR3dtcFQtNm5BSUlaT0xjd1R0MnJiZTNTVkVENFdYZW02aVY5Nl9oTHUyWjg?oc=5",
-     "summary": "文件解读：《四川省体育发展“十五五”规划》 封面新闻",
-     "source": "封面新闻",
-     "pub": "2026-11-14 11:56",
-     "tag": "规划-十五五",
-     "channel": "rss",
-     "brief": "文件解读：《四川省体育发展“十五五”规划》 封面新闻。"
-    },
-    {
-     "title": "2026中国体育“两个博览会”在苏州开幕",
-     "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQZk5ndVYwVUhJZmRRSHpsU051eG40Z3RCd3hGSHlEaTI2eGk4bkhiNlJfRHpFellreWxNLVhKTjgzcUZieUFWZVoybjVlSzZYYV9BWVIyTmhFMlpLT2dBdVhPTVVrV3NCQkFVNjR3SXpsbGpsWlN5NHhMemFHNlVRMC1NWi1OY0tkMnpOVWd2VQ?oc=5",
-     "summary": "2026中国体育“两个博览会”在苏州开幕 Sohu",
-     "source": "Sohu",
-     "pub": "2026-11-14 11:25",
-     "tag": "规划-十五五",
-     "channel": "rss",
-     "brief": "2026中国体育“两个博览会”在苏州开幕 Sohu。"
-    },
-    {
-     "title": "“21城体育性格”出圈，广东体育亮相2026两个博览会",
-     "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5LaHF1ajhpWGlCMHdxeS1PY3VLS3JhQWJPcXpTUGF3WHFIN25wREZBY296RlcyenZsTjNUa05MbWhJOEctRmsta1UzWTJkaE5QR3NPWWxKUGU3R1RBbXFkaElkb2tpYjVnanJEWXVRaw?oc=5",
-     "summary": "“21城体育性格”出圈，广东体育亮相2026两个博览会 中山网",
-     "source": "中山网",
-     "pub": "2026-11-14 10:59",
-     "tag": "规划-十五五",
-     "channel": "rss",
-     "brief": "“21城体育性格”出圈，广东体育亮相2026两个博览会 中山网。"
-    },
-    {
-     "title": "2026体育两博会苏州开幕 贵州亮出一座“体育公园省”",
-     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNN3dzaDFobXdlR2hwQ2VQWGRma3NuODltMHA2R01yc3Ezd2tJQm04SG81WU9XN2ZRTnlhNThyWUZhbThxVDZQaEl6NnZCYnBMMjdBejBzdzFUYlBic1RCYWlLMk91MXNfcjNrT3kxekh0MFRJUVlqNjRxamVTTjlVWkNuZUw4THVfN0Zycw?oc=5",
-     "summary": "2026体育两博会苏州开幕 贵州亮出一座“体育公园省” Sohu",
-     "source": "Sohu",
-     "pub": "2026-11-14 10:56",
-     "tag": "规划-十五五",
-     "channel": "rss",
-     "brief": "2026体育两博会苏州开幕 贵州亮出一座“体育公园省” Sohu。"
-    },
-    {
-     "title": "把“影视流量”转化为“文旅增量” 政企携手共探“影视+文旅+竞技体育”新路径",
-     "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5mUXNPVG1sejVVd0ZGeXBjR1VlTHFyM2hPYUhuQ1REUm1iY2tSWVlKY1pEbGNHa3M0Q0ItdlJIcHE0a1Q3VWR5cTduMnQ3aXQwRTRwbXJZbzRBNTM2MDE2TFFYTElvYnNva1dNbU9ieTBOd1lpNTdtd3RR?oc=5",
-     "summary": "把“影视流量”转化为“文旅增量” 政企携手共探“影视+文旅+竞技体育”新路径 央视网",
-     "source": "央视网",
-     "pub": "2026-11-14 08:10",
-     "tag": "规划-十五五",
-     "channel": "rss",
-     "brief": "把“影视流量”转化为“文旅增量” 政企携手共探“影视+文旅+竞技体育”新路径 央视网。"
-    }
-   ]
-  },
   {
    "tag": "政策-体教融合",
    "items": [
     {
-     "title": "罗萧体育四名学员入选跆拳道项目集训|2026年全省高水平竞技体育后备人才基地训练营开营",
-     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPNmVEVW5QLWdtRW5Kc2Vkbzg1QWVFVEdhOUF2NXVOTkdFcHhQVlRSa0UyeEN6emtzVk9OTGJNUzFCZTEtUVBiOTFuYXpuQWcwQjdMd1E0MlNXZm8yUThkS3dYNDRGdDlWajFTM0JnOExrbUdYeF9WYVpia012aUlESzRBZTNWZ0Y5MVU3ZA?oc=5",
-     "summary": "罗萧体育四名学员入选跆拳道项目集训|2026年全省高水平竞技体育后备人才基地训练营开营 Sohu",
-     "source": "Sohu",
-     "pub": "2026-11-14 23:40",
+     "title": "劈波斩浪挥桨竞技_ 民生资讯",
+     "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE94V0FJUGpfeG9HTlU0MllZQUxZYjFlakxSbkNGZjR0ekNWSzhqY1VTd01SbTVIRHc5c3Z4cnRreWVwNk5iUEMtOFY4Tms1QmpEckdxTTJwYjRWUnAtTW9RUUpEd0czS2I2Nlp1UDFIYk4?oc=5",
+     "summary": "劈波斩浪挥桨竞技_ 民生资讯 福建省人民政府",
+     "source": "福建省人民政府",
+     "pub": "2026-11-16 08:07",
      "tag": "政策-体教融合",
      "channel": "rss",
-     "brief": "罗萧体育四名学员入选跆拳道项目集训|2026年全省高水平竞技体育后备人才基地训练营开营 Sohu。"
+     "brief": "劈波斩浪挥桨竞技_ 民生资讯 福建省人民政府。"
     },
     {
-     "title": "2026年贵州省高水平竞技体育后备人才基地训练营在清镇开营",
-     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQcVVvc1AzVUd2X084OFgyX1BNVXcxNjlRT05QZFBJNnpNWXN2OS03SWlRZmNwal85ME9QN0k3RkRBdUVqTmZYeVJ4V2swNHZjWVFfMnNpN3U1Z1hLRWYtRDlLUXhSMVpQRDVKWTd0ZHBGZ3dmaXJBTXVLcE10OWRQbk9NSjhiVk8xaWFoMQ?oc=5",
-     "summary": "2026年贵州省高水平竞技体育后备人才基地训练营在清镇开营 Sohu",
-     "source": "Sohu",
-     "pub": "2026-11-14 21:50",
+     "title": "两个博览会绘就文体旅融合新图景",
+     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBxT3Z6eXZ4SXVvRU1ySm50c2dFd0R3aHhnU2o4VF9NZ19kbWJGUkttS19rQkpOc2Zjbm14aHczQ0pPQzJZRUhOVlFYRWtGejR6dHhlSDZiMFJRU0JNcE5FQWJZRG9IcTVYSVY5N0JGd0w5akU5T2c?oc=5",
+     "summary": "两个博览会绘就文体旅融合新图景 国家体育总局",
+     "source": "国家体育总局",
+     "pub": "2026-11-16 08:07",
      "tag": "政策-体教融合",
      "channel": "rss",
-     "brief": "2026年贵州省高水平竞技体育后备人才基地训练营在清镇开营 Sohu。"
+     "brief": "两个博览会绘就文体旅融合新图景 国家体育总局。"
     },
     {
-     "title": "体教融童心，健康向未来，江岸区学前幼儿运动促进健康行动正式启动",
-     "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5Da19tZXFuUVBJa090cTNaUi1SbWtlZDRrME1OWFhlQVY3ZF9uVzVqdFJMWG54emtuWGFCMXAzMWNrMDMwM2ZhOGt4REtCcFN2cC1qWThqXzVJLXp4c0NlcEZR?oc=5",
-     "summary": "体教融童心，健康向未来，江岸区学前幼儿运动促进健康行动正式启动 长江网",
-     "source": "长江网",
-     "pub": "2026-11-14 20:59",
+     "title": "持杖行走悦祁连・登高健身展风采！2026年“双11”全国持杖行走联动日（甘肃张掖站）暨张掖巴尔斯登山健身大会启幕",
+     "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBYbTJWanJzVXE3ZWFqWWdEUWhwLXlrQWIwUkJBUV9pck9QXzdoMkFKSkRaWWdkcFVwT1pWcTB0WlYwZ21VaUo2NXk3SFpubFU0eXR0Vy10QkVnQ0tnZDg4UEZGTG10eTlnSkE?oc=5",
+     "summary": "持杖行走悦祁连・登高健身展风采！2026年“双11”全国持杖行走联动日（甘肃张掖站）暨张掖巴尔斯登山健身大会启幕 甘肃省体育局",
+     "source": "甘肃省体育局",
+     "pub": "2026-11-16 06:50",
      "tag": "政策-体教融合",
      "channel": "rss",
-     "brief": "体教融童心，健康向未来，江岸区学前幼儿运动促进健康行动正式启动 长江网。"
+     "brief": "持杖行走悦祁连・登高健身展风采！2026年“双11”全国持杖行走联动日（甘肃张掖站）暨张掖巴尔斯登山健身大会启幕 甘肃省体育局。"
     },
     {
-     "title": "德安县第三中学斩获2026年德安县初中生排球联赛男女组双料冠军",
-     "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9EdnpmeEN0ZjJkVXV1M0x5Y2pUbWdwSXpoVXBURnA3R0hzVDVyOGhMWkx5TGV4MXdIdVlYSk5xU0tlejhRbUp4dlI1dWlhbFozS1RfQkFOLWxNN2NWRm5z?oc=5",
-     "summary": "德安县第三中学斩获2026年德安县初中生排球联赛男女组双料冠军 九江新闻网",
-     "source": "九江新闻网",
-     "pub": "2026-11-14 20:16",
+     "title": "黄石将新建一座体育公园，位置就在……",
+     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE4yeGJEenhhNnJyd2J0T1hLVlQtMXpxZHVSLXR1Z0JkT3ZCZDY2MEJlblJrM3c5bVllc3ZhMmgwZG12SWtvTkJMdnk5NHRnNURpcmRUd0FqSGZ6SmtReUFHZE54X1NVUjZsVFpJbzJ5cldISUdCUHc?oc=5",
+     "summary": "黄石将新建一座体育公园，位置就在…… 黄石市人民政府",
+     "source": "黄石市人民政府",
+     "pub": "2026-11-16 02:14",
      "tag": "政策-体教融合",
      "channel": "rss",
-     "brief": "德安县第三中学斩获2026年德安县初中生排球联赛男女组双料冠军 九江新闻网。"
+     "brief": "黄石将新建一座体育公园，位置就在…… 黄石市人民政府。"
     },
     {
-     "title": "校园快闪，足球少年踢出向上锋芒",
-     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBWU2N4YnQtbUg3S1cydTFhdUJTYlhmZWg0bl8yY01udWF1MGI4czRCc3doaFlFc2ZWMTRJc2E3QnpYbUtfQXkwaFQzQ2V6NGI4S21QR2RsSm9fZU9ibVlRbXBDWDRNWUttNkZlam13SHd4RnpfV0E?oc=5",
-     "summary": "校园快闪，足球少年踢出向上锋芒 新华网重庆",
-     "source": "新华网重庆",
-     "pub": "2026-11-14 18:48",
+     "title": "2025年虎门镇体育中心项目绩效自评及财政抽查审核结果",
+     "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1NNkdsak5pa0UtX0FSQTBhVVg5V1U5bXVrN0pmMDJpTmNzUVNBTE5MMG1RbXBCX1VXeEdObTBKOU50ZU4wWWYzMDFfVmNrdk9WR2FVNGNMMlBDdE9ESE1OTkZ4VjlCX0dJZmx6OWlOckRvZ3ZqZUhDYg?oc=5",
+     "summary": "2025年虎门镇体育中心项目绩效自评及财政抽查审核结果 东莞市人民政府",
+     "source": "东莞市人民政府",
+     "pub": "2026-11-15 20:35",
      "tag": "政策-体教融合",
      "channel": "rss",
-     "brief": "校园快闪，足球少年踢出向上锋芒 新华网重庆。"
+     "brief": "2025年虎门镇体育中心项目绩效自评及财政抽查审核结果 东莞市人民政府。"
     },
     {
-     "title": "绿茵少年竞风采，支云助阵燃梦想 2026通州湾小学教育集团足球联赛开幕",
-     "url": "https://news.google.com/rss/articles/CBMimwJBVV95cUxOX0x5eW5TY25fRlUwMnFaeno3SjBCTHU3TkpPYmVMeU95TFFkNF9xbmp0eEl4T04wZGptNlpxbzdUdmU2Z3JTOE9rY1d4MmZmSUIzdm1XVkF2bDNFTUFjLUZ5dEtjT1h1Z3VuelhlOXJpeHAyamYtc0ttdXNNS1RISXFmZnpKbVZpY2F2aHM1NERDUnVCUFpTdG5tUWZTWnpwUFlscTcxWUVoV2xrV1c0c2I3VEpEWFF6Wk1pUWNac3BoVjVkam5PX25HclBLeWt3Rm9BMHZTTXVUZHFGU2lMakpxMWpRY2o3UE5XR0JjcF9Qd05YeVp2aXhtX0gtMV9VaVFwak90Q0FkcVVhZlVDNFhxWWFqeFdHUDhj?oc=5",
-     "summary": "绿茵少年竞风采，支云助阵燃梦想 2026通州湾小学教育集团足球联赛开幕 Sohu",
-     "source": "Sohu",
-     "pub": "2026-11-14 18:05",
+     "title": "喜迎党代会·党代表风采| 张仁艳：深耕体育育桃李匠心笃行守初心",
+     "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE91SklwOE5BclpFN3I5S1hLLXk3YnVwaUViOVUyc2NNWTBSREFIVmZxc05oTHU2N3JSUUFxRTlpaVc5RVhkZHBYVFNlZXF1MHZmblNOYnpqUEFvSGo5Nmc?oc=5",
+     "summary": "喜迎党代会·党代表风采| 张仁艳：深耕体育育桃李匠心笃行守初心 铜仁网",
+     "source": "铜仁网",
+     "pub": "2026-11-15 18:51",
      "tag": "政策-体教融合",
      "channel": "rss",
-     "brief": "绿茵少年竞风采，支云助阵燃梦想 2026通州湾小学教育集团足球联赛开幕 Sohu。"
+     "brief": "喜迎党代会·党代表风采| 张仁艳：深耕体育育桃李匠心笃行守初心 铜仁网。"
     }
    ]
   },
@@ -127,114 +72,64 @@
    "tag": "经济-产业数据",
    "items": [
     {
-     "title": "“2026年中国体育旅游精品项目”揭晓 西安两个项目入选",
-     "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFB0LXJCT0NMSmNBWnVCdEhvTEVPOG90WW5RYnktN0NPaldYMXYyX2VfT1R0UUhKcnpPTlA5SjJITE5RMjlLa2NMLUN1enVDRFpyZVFmUUhrMHlBUjJYS1hj?oc=5",
-     "summary": "“2026年中国体育旅游精品项目”揭晓 西安两个项目入选 华商网",
-     "source": "华商网",
-     "pub": "2026-11-15 07:47",
+     "title": "陇原体育活力足——2026中国体育“两个博览会”甘肃馆见闻",
+     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9pMW11ak1kN1VKaEZ2NWFBdzBPM053X08zQTRwNndSUlg1Ni1XYjNlRnVXMlExYnhUQkstdHY4NXh2TXVCMTJRRjdsSkQxSWZDOUlZRGQ2ajdlMFJ5RlJjQUI3OEpPWi1JNVJYSUlVOWVqUVE?oc=5",
+     "summary": "陇原体育活力足——2026中国体育“两个博览会”甘肃馆见闻 甘肃日报",
+     "source": "甘肃日报",
+     "pub": "2026-11-16 08:25",
      "tag": "经济-产业数据",
      "channel": "rss",
-     "brief": "“2026年中国体育旅游精品项目”揭晓 西安两个项目入选 华商网。"
+     "brief": "陇原体育活力足——2026中国体育“两个博览会”甘肃馆见闻 甘肃日报。"
     },
     {
-     "title": "数智赋能 场景落地｜区域云体育app入口登录官方网址融合应用试点全面启动",
-     "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9aQUJmYTU0MXBYZElPS3gzZDRvanpBRjJxckVjbzNVR2tNN2F5RXJUZDhZQTdBTG9Ja2FKend2eS0xUDZ6VzdLWHc1cHFzRmprdEppc055WXk?oc=5",
-     "summary": "数智赋能 场景落地｜区域云体育app入口登录官方网址融合应用试点全面启动 DoNews",
-     "source": "DoNews",
-     "pub": "2026-11-15 05:46",
+     "title": "深度运营成为冰雪旅游持续收益的关键 | 川观智库快讯",
+     "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFA4UUhpYjRqWGdPcUdFZEJtdGVwalVDV2JYUDhKM1JLVl9WbnZ2Uzd2aHdQSUpRMUZvVFNTOHdPSmJDZWpUZFBHc3pETkZ2QQ?oc=5",
+     "summary": "深度运营成为冰雪旅游持续收益的关键 | 川观智库快讯 川观新闻",
+     "source": "川观新闻",
+     "pub": "2026-11-16 08:08",
      "tag": "经济-产业数据",
      "channel": "rss",
-     "brief": "数智赋能 场景落地｜区域云体育app入口登录官方网址融合应用试点全面启动 DoNews。"
+     "brief": "深度运营成为冰雪旅游持续收益的关键 | 川观智库快讯 川观新闻。"
     },
     {
-     "title": "米兰体育官网和官方旗舰店区别正式公布，权威解读两大平台服务升级与官方保障机制",
-     "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9IUXVITTc1RXBwTFdjckotejZVcUVUZWh2c21ta2pyZ3piaHI2MmhJekNWNy1RMG0zelpNT05yZkhycDU5eDdEWm4zek1MZlAtYUZwQVJOVEFiNDJJWUNENFM0UXI3RWk0UnBfYW5HU091d2hkaFlN?oc=5",
-     "summary": "米兰体育官网和官方旗舰店区别正式公布，权威解读两大平台服务升级与官方保障机制 DoNews",
-     "source": "DoNews",
-     "pub": "2026-11-15 01:19",
+     "title": "江西户外运动产业“热辣滚烫” 到2030年总规模突破900亿元",
+     "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBnbXJrMGp3ZlBwRlpIcTlwaVZSUUR6N2xiOW01Ym56T1M1VEVWa2RHckJKTENnai1ESzhWTU16YlgxZ2hPaUw3NVVB?oc=5",
+     "summary": "江西户外运动产业“热辣滚烫” 到2030年总规模突破900亿元 凤凰网",
+     "source": "凤凰网",
+     "pub": "2026-11-16 07:33",
      "tag": "经济-产业数据",
      "channel": "rss",
-     "brief": "米兰体育官网和官方旗舰店区别正式公布，权威解读两大平台服务升级与官方保障机制 DoNews。"
+     "brief": "江西户外运动产业“热辣滚烫” 到2030年总规模突破900亿元 凤凰网。"
     },
     {
-     "title": "奔县游丨山水聚潮：赛事激活文旅消费新引擎",
-     "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPYkhKY1RuWTRmREY1amxJTFRHQkFrV0ZLUHRXSzB2U0RPWWNkLU5XWDMtcXprVGhmaEtvX3hKRG9ReG14STNGN2FCeE5ZWW4tMzJSWURmOXFxYzFDalB5ZHZadFAwMHNQTXlpbk1NSnpST3FXZ2JGYmpQaElSMlFZRG5nQQ?oc=5",
-     "summary": "奔县游丨山水聚潮：赛事激活文旅消费新引擎 手机新浪网",
-     "source": "手机新浪网",
-     "pub": "2026-11-14 21:07",
+     "title": "赛事引流旺消费！“奔跑江苏” 全民健步走带热苏锡通园区商圈",
+     "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBldmZSZVR4by00YXVJeWZGdVdWcFNNZVdkRmdXMXhPWUpFNFRlZ3ZSUS1wbU1yWjI5SWF3OVRoeXFuQVBzckRnakxMNEtKMnVHLVBTU2h6QTBuZ2VBZzVrRmtWLTdhZHpqak1jNmFoSQ?oc=5",
+     "summary": "赛事引流旺消费！“奔跑江苏” 全民健步走带热苏锡通园区商圈 紫牛新闻",
+     "source": "紫牛新闻",
+     "pub": "2026-11-15 17:11",
      "tag": "经济-产业数据",
      "channel": "rss",
-     "brief": "奔县游丨山水聚潮：赛事激活文旅消费新引擎 手机新浪网。"
+     "brief": "赛事引流旺消费！“奔跑江苏” 全民健步走带热苏锡通园区商圈 紫牛新闻。"
     },
     {
-     "title": "获评国家级精品项目！成都邛崃“崃户外”全域步道体系惊艳亮相苏州",
-     "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNSFJkN2p6QmhjV002MXAxTTQ2N0tGZ19ONTE4NTE5OTVUQkdhejJfeHp5UkRzNDJta1hVcnRKdjZOdW1wQmxrUWdwUUhCQmEwX1laaTJzT0VNZFc1SXIwVl95QTdNMW5XZ2FhMFg1UExTUDV3YkNlWTdlQjRyRHotLUJ4bmVMV3VPaXlz?oc=5",
-     "summary": "获评国家级精品项目！成都邛崃“崃户外”全域步道体系惊艳亮相苏州 Sohu",
-     "source": "Sohu",
-     "pub": "2026-11-14 20:13",
+     "title": "BLG夺冠背后的电竞生意经 赛事经济新风口",
+     "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9iRFRneHY3MG5nOUFSXzBTbG5WeTEwcHNjZWFpNlVDUkw0STl1b1lVLUliSXNYbWVKcGx1ZGZWX0JUMjNwRG9zTGJlRTJrS3JQcGFzUG5nWVRUT0pTTlN6T3RncjNzeVNQSDR2X3ZfTVM?oc=5",
+     "summary": "BLG夺冠背后的电竞生意经 赛事经济新风口 中华网",
+     "source": "中华网",
+     "pub": "2026-11-15 15:52",
      "tag": "经济-产业数据",
      "channel": "rss",
-     "brief": "获评国家级精品项目！成都邛崃“崃户外”全域步道体系惊艳亮相苏州 Sohu。"
+     "brief": "BLG夺冠背后的电竞生意经 赛事经济新风口 中华网。"
     },
     {
-     "title": "以优异成绩迎接自治区第十三次党代会召开｜一场场赛事点燃柳州城市活力",
-     "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNbHR5LWt6MWpYTDZIa1lpMU1fMHBQOWhMYTR3d3I5TEh6dEpLTjJwSXhEVENhY25WWXllZnJUQWlZNmM4YkhOYXE0d2g4SnFLOXNwb1BPQkppMzdhZWIyX195RFR5Ri1IdE1tS2RyVVBsR19rNjhoMExvMngtWXhhTE9n?oc=5",
-     "summary": "以优异成绩迎接自治区第十三次党代会召开｜一场场赛事点燃柳州城市活力 手机新浪网",
-     "source": "手机新浪网",
-     "pub": "2026-11-14 18:43",
+     "title": "动起来，消费“跑”起来——体育消费新观察",
+     "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1pUWh5NFdYMlFlV3lyLXQ0Z2FQMjhySzJfeTMwajF2YUNBYjdTaC1fcnFoOHk0YTRWckhtWEdacXBiOU9UZjdBSFhhUE1vMHFZcFZockc3dV92UXpBNnl3UDhON1JqZG1nSjZpeVJnTzJiV0J3ZWR3Nw?oc=5",
+     "summary": "动起来，消费“跑”起来——体育消费新观察 央视网",
+     "source": "央视网",
+     "pub": "2026-11-15 11:28",
      "tag": "经济-产业数据",
      "channel": "rss",
-     "brief": "以优异成绩迎接自治区第十三次党代会召开｜一场场赛事点燃柳州城市活力 手机新浪网。"
-    }
-   ]
-  },
-  {
-   "tag": "就业-教师",
-   "items": [
-    {
-     "title": "全椒县2026年下半年教师资格证书领取公告",
-     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQUUpnd05BWUFiTjFjY2Y1SW5tMzBNRU5KbFNIMnBJLXRFdE51ME5RT2M3Q2JSaUItWUpzUDNBRXRlOFZnU08tNWtCMU9pdGgwc3pvVWo3NlowejJSQUZGNmQ0Y3dpZWlkbVp5ME5sTC1MekRuLXUtT2pCTzdkV2NNRDFsTF9HZFF5aFFUT05DVHpTaGdMY21nRQ?oc=5",
-     "summary": "全椒县2026年下半年教师资格证书领取公告 新浪财经",
-     "source": "新浪财经",
-     "pub": "2026-11-14 09:29",
-     "tag": "就业-教师",
-     "channel": "rss",
-     "brief": "全椒县2026年下半年教师资格证书领取公告 新浪财经。"
-    }
-   ]
-  },
-  {
-   "tag": "深度-行业",
-   "items": [
-    {
-     "title": "今日星空・综合体育速览：AI赛事数据中台上线 X3运动手表开启预售",
-     "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1XVU96MFM5SXdCd3JzeWNGckg2SHd5R00xLVRMcU1NZU44VFZqWkJFSWdyaUJLUHhPOVVQRVlUZG5KaTM2QWxEb3NfV2dpc3BuVG9qbFdGRXA?oc=5",
-     "summary": "今日星空・综合体育速览：AI赛事数据中台上线 X3运动手表开启预售 DoNews",
-     "source": "DoNews",
-     "pub": "2026-11-15 05:46",
-     "tag": "深度-行业",
-     "channel": "rss",
-     "brief": "今日星空・综合体育速览：AI赛事数据中台上线 X3运动手表开启预售 DoNews。"
-    },
-    {
-     "title": "土球场到AI课堂！冠军梦在这里继续",
-     "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBsRmVHdFB1U1I1MnlWa3NjODZLRHFwUTRkWmc4SUNWNms5enFMSFlpNnNSZHc3a0kwVmJZdndGaGViekFwUTQzM1A0XzRRTTN5aG84V1BoUTQ0bW5LTHhiQ1FRejZFQWJyNnFNT2Y1QjRGRXdFUjRBS1RaTGw0dw?oc=5",
-     "summary": "土球场到AI课堂！冠军梦在这里继续 手机新浪网",
-     "source": "手机新浪网",
-     "pub": "2026-11-14 18:02",
-     "tag": "深度-行业",
-     "channel": "rss",
-     "brief": "土球场到AI课堂！冠军梦在这里继续 手机新浪网。"
-    },
-    {
-     "title": "鲸鱼体育app官网下载品牌焕新升级：从运动工具到全民健身AI朋友",
-     "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1pUk5JYzI3YjQzWlRjRDVtZjB0di1BWVprc0JIa2x4ZFZkVzkwVS1lbEo0YkpEWHBTaUJvMDNQdnZQMmZHVldWMGhqRVRqcTdENF9QUTdHMXA?oc=5",
-     "summary": "鲸鱼体育app官网下载品牌焕新升级：从运动工具到全民健身AI朋友 DoNews",
-     "source": "DoNews",
-     "pub": "2026-11-14 06:45",
-     "tag": "深度-行业",
-     "channel": "rss",
-     "brief": "鲸鱼体育app官网下载品牌焕新升级：从运动工具到全民健身AI朋友 DoNews。"
+     "brief": "动起来，消费“跑”起来——体育消费新观察 央视网。"
     }
    ]
   },
@@ -242,67 +137,47 @@
    "tag": "综合-资讯",
    "items": [
     {
-     "title": "（体育）击剑——佩剑世界杯（开罗站）赛况",
-     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNRUhGQ1hRTmhEU1Mwa25FdDhDTGUxUHVWbFJINEJtUl8xNXMwQ1I3YTdPclFtZkNVU3dsY3RIMThpXzVSZ1F0NzlYdDJwUXUyb0dBRkRnd2VfMzRzbEhoT0VIcUdrSmRRaFpXX3NWdnAwSnNRdjZKRlpKaWtTa0RXRDF0ZFpnRHJ0?oc=5",
-     "summary": "（体育）击剑——佩剑世界杯（开罗站）赛况 Sohu",
-     "source": "Sohu",
-     "pub": "2026-11-14 23:29",
+     "title": "BLG战队电竞项目夺冠，湖北黄冈市体育事业发展中心致贺信",
+     "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9oYUNpb3RfMm01ZnNaaDF4dlU1VGtnTnlGR1VwWjJRWmhIckxSOGdWSnZCNTNHam5DUnpPcHo2MGRPYXhmaTRUSVZkZ0I4VDFzb2xzd20yWFItLVU3bnJLQw?oc=5",
+     "summary": "BLG战队电竞项目夺冠，湖北黄冈市体育事业发展中心致贺信 ThePaper.cn",
+     "source": "ThePaper.cn",
+     "pub": "2026-11-15 15:22",
      "tag": "综合-资讯",
      "channel": "rss",
-     "brief": "（体育）击剑——佩剑世界杯（开罗站）赛况 Sohu。"
+     "brief": "BLG战队电竞项目夺冠，湖北黄冈市体育事业发展中心致贺信 ThePaper.cn。"
     },
     {
-     "title": "（体育）足球——国际邀请赛：中国队胜马来西亚队",
-     "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNcE5EeEpBR2hQRmphMDhwcmpQU1dodkdtUEVDUkYtNUtydmotVV9BTkd6MFY4QnVpTUJnOEtxb1pvUmlzdEdQYmtVdTRoY2xQaENtQWs3Q2lkNjhXYXF2NzgtbmR6SFhvQU5UZDBkZHdpSHpkQVZuQzNUSm5nYnZjYWFEV1VoMDFCcVZr?oc=5",
-     "summary": "（体育）足球——国际邀请赛：中国队胜马来西亚队 Sohu",
+     "title": "（体育）2026建德马拉松开跑",
+     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOWkR0d21DQ1RmQ0s5azd2YW5mcGRzVG9kY3pycHlvSjF6ZXBxMTBUQTUtRGozNEpwbUsxbUljcUlBLWp0QnQxWGZjQVMyWmJTZzJ1R253djFrRVZjcTNhU0dHX3hYczV0REhIRFVvUTNfdGZLYTFmUEIwLXlWVl85bnF4SG9rTzd0?oc=5",
+     "summary": "（体育）2026建德马拉松开跑 Sohu",
      "source": "Sohu",
-     "pub": "2026-11-14 23:12",
+     "pub": "2026-11-15 09:28",
      "tag": "综合-资讯",
      "channel": "rss",
-     "brief": "（体育）足球——国际邀请赛：中国队胜马来西亚队 Sohu。"
+     "brief": "（体育）2026建德马拉松开跑 Sohu。"
     },
     {
-     "title": "（体育）2026年贵州“村马”端坡马王总决赛举行",
-     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQSTVubnFBTTBnZ09TU2FYVUg4ZkhRR2ZnT3ZEeTktOTktbUM0Mk52Ylk0dkxETUxHTTJLaXRCVTM3cjMzYi1BR0lIV3I5WG5UWmotZDgzaGZjMlF5dWZqOEluMVNzMEpkc0dld0xCUW5YOEY1a2R4cHc1c0ZVZmtSSGNkRklwcElW?oc=5",
-     "summary": "（体育）2026年贵州“村马”端坡马王总决赛举行 Sohu",
+     "title": "（体育）足球——国际邀请赛：中国队对阵马来西亚队",
+     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOb2puX0R6YlhkZGF1WldnOXdJczc2cWFDQW5tRnREQUMycjQ1Nml1QV9yaThCR0QyYlotNG5UUnRtM21VaGU0TWNjTGpLNmpRWnpHSXlfZ1UtcGVjS3NuNDh4TVhoSURFVE1wQ1FUejEtb1ZNYTY0VlJwYTlXWTBWOGNuVHhPZ3pY?oc=5",
+     "summary": "（体育）足球——国际邀请赛：中国队对阵马来西亚队 Sohu",
      "source": "Sohu",
-     "pub": "2026-11-14 23:07",
+     "pub": "2026-11-14 21:56",
      "tag": "综合-资讯",
      "channel": "rss",
-     "brief": "（体育）2026年贵州“村马”端坡马王总决赛举行 Sohu。"
+     "brief": "（体育）足球——国际邀请赛：中国队对阵马来西亚队 Sohu。"
     },
     {
-     "title": "（体育）速度滑冰——世界杯（北京站）赛况",
-     "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPN293U3NsVUhORng1TG1zUUhleGh5R09VNjNnYWxFQ3h4bC1sSUdfeV9lLWxqQ0hfOGhUMnN6SjY5eHU2N0NHNnRjNVVEMHJ6QlVMbHRab1pLamkwOUd6cTd0UUdZUUltTThuZzQ2Mm1hNWRoYTNOZW1CdG1KYThMZ1V0NlB4NFBRQ0NJ?oc=5",
-     "summary": "（体育）速度滑冰——世界杯（北京站）赛况 Sohu",
+     "title": "（体育）速度滑冰——世界杯（北京站）：宁忠岩获得男子1500米冠军",
+     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNQWxwcFVnc0dnejZGV2dfVm1IOEJYX09kU0Zjc3B5X3I1NWl3YVVxYmFSQnZ1OXhCTnlxSldmNy1icnp0OFB3a1pXanJnSm5yRWtVVHo0MDBjVXRhSnNEWm5UTXNDS1VsMXB5UkNTOGs4SzBON2owSk1IMXl1SkF3alF4eTEweFJB?oc=5",
+     "summary": "（体育）速度滑冰——世界杯（北京站）：宁忠岩获得男子1500米冠军 Sohu",
      "source": "Sohu",
-     "pub": "2026-11-14 19:29",
+     "pub": "2026-11-14 21:28",
      "tag": "综合-资讯",
      "channel": "rss",
-     "brief": "（体育）速度滑冰——世界杯（北京站）赛况 Sohu。"
-    },
-    {
-     "title": "（体育）击剑——女子重剑世界杯（无锡站）赛况",
-     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQMzRUYld2TGhXTlN6RlBTa3dGSHFhUGQxY2phZXlkdXI2YWd6UHFSbENGQ3lYaG85ZFpjb3pDZDBnbEROZnBaZGVyWFF1Z1VPeGpkaENWLTFxQlROM1NQbWlIZ29mR0JBcmliWGNHd2xKSDJqNTVLTzktR2ZMRmgtcEoyaGozeng3?oc=5",
-     "summary": "（体育）击剑——女子重剑世界杯（无锡站）赛况 Sohu",
-     "source": "Sohu",
-     "pub": "2026-11-14 18:54",
-     "tag": "综合-资讯",
-     "channel": "rss",
-     "brief": "（体育）击剑——女子重剑世界杯（无锡站）赛况 Sohu。"
-    },
-    {
-     "title": "（体育）新疆可可托海：滑雪正当时",
-     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQV2JMeFpSNnZiS2loX1RrM1hERXdqLVJDX3Z2c2NoTGVGcmhvRXJlQVFFeDhaTWx3R2VqVmQ1XzhEM0ZZZnZCSWh5aHpfbEQtbHVNNU44OVlqQ0hfSWo0TGU2V1hfUnZKMFIwS2NaX2hkUmhzTGFqSzFfc0g3VU1HN01xdExRMk93?oc=5",
-     "summary": "（体育）新疆可可托海：滑雪正当时 Sohu",
-     "source": "Sohu",
-     "pub": "2026-11-14 14:44",
-     "tag": "综合-资讯",
-     "channel": "rss",
-     "brief": "（体育）新疆可可托海：滑雪正当时 Sohu。"
+     "brief": "（体育）速度滑冰——世界杯（北京站）：宁忠岩获得男子1500米冠军 Sohu。"
     }
    ]
   }
  ],
- "text": "体育教育破壁日报  2026-11-15\n==================================\n今日共 27 条 · 八类信息壁垒全扫描\n\n【规划-十五五】\n1. 文件解读：《四川省体育发展“十五五”规划》\n   → 文件解读：《四川省体育发展“十五五”规划》 封面新闻。\n   封面新闻 | 2026-11-14 11:56\n   https://news.google.com/rss/articles/CBMihwFBVV95cUxQRS1BRTVvVVZMeFBzeG9fcElnZEtia0NFYl84c0o5ZEN3NFVxZ1VrNnNOa3JfLTB3bzVMVG9zalRQTFNVT1QzWG42S3AxZnhZMmswY21lVGlXbXpvR3dtcFQtNm5BSUlaT0xjd1R0MnJiZTNTVkVENFdYZW02aVY5Nl9oTHUyWjg?oc=5\n2. 2026中国体育“两个博览会”在苏州开幕\n   → 2026中国体育“两个博览会”在苏州开幕 Sohu。\n   Sohu | 2026-11-14 11:25\n   https://news.google.com/rss/articles/CBMijwFBVV95cUxQZk5ndVYwVUhJZmRRSHpsU051eG40Z3RCd3hGSHlEaTI2eGk4bkhiNlJfRHpFellreWxNLVhKTjgzcUZieUFWZVoybjVlSzZYYV9BWVIyTmhFMlpLT2dBdVhPTVVrV3NCQkFVNjR3SXpsbGpsWlN5NHhMemFHNlVRMC1NWi1OY0tkMnpOVWd2VQ?oc=5\n3. “21城体育性格”出圈，广东体育亮相2026两个博览会\n   → “21城体育性格”出圈，广东体育亮相2026两个博览会 中山网。\n   中山网 | 2026-11-14 10:59\n   https://news.google.com/rss/articles/CBMib0FVX3lxTE5LaHF1ajhpWGlCMHdxeS1PY3VLS3JhQWJPcXpTUGF3WHFIN25wREZBY296RlcyenZsTjNUa05MbWhJOEctRmsta1UzWTJkaE5QR3NPWWxKUGU3R1RBbXFkaElkb2tpYjVnanJEWXVRaw?oc=5\n4. 2026体育两博会苏州开幕 贵州亮出一座“体育公园省”\n   → 2026体育两博会苏州开幕 贵州亮出一座“体育公园省” Sohu。\n   Sohu | 2026-11-14 10:56\n   https://news.google.com/rss/articles/CBMijAFBVV95cUxNN3dzaDFobXdlR2hwQ2VQWGRma3NuODltMHA2R01yc3Ezd2tJQm04SG81WU9XN2ZRTnlhNThyWUZhbThxVDZQaEl6NnZCYnBMMjdBejBzdzFUYlBic1RCYWlLMk91MXNfcjNrT3kxekh0MFRJUVlqNjRxamVTTjlVWkNuZUw4THVfN0Zycw?oc=5\n5. 把“影视流量”转化为“文旅增量” 政企携手共探“影视+文旅+竞技体育”新路径\n   → 把“影视流量”转化为“文旅增量” 政企携手共探“影视+文旅+竞技体育”新路径 央视网。\n   央视网 | 2026-11-14 08:10\n   https://news.google.com/rss/articles/CBMiekFVX3lxTE5mUXNPVG1sejVVd0ZGeXBjR1VlTHFyM2hPYUhuQ1REUm1iY2tSWVlKY1pEbGNHa3M0Q0ItdlJIcHE0a1Q3VWR5cTduMnQ3aXQwRTRwbXJZbzRBNTM2MDE2TFFYTElvYnNva1dNbU9ieTBOd1lpNTdtd3RR?oc=5\n\n【政策-体教融合】\n1. 罗萧体育四名学员入选跆拳道项目集训|2026年全省高水平竞技体育后备人才基地训练营开营\n   → 罗萧体育四名学员入选跆拳道项目集训|2026年全省高水平竞技体育后备人才基地训练营开营 Sohu。\n   Sohu | 2026-11-14 23:40\n   https://news.google.com/rss/articles/CBMijAFBVV95cUxPNmVEVW5QLWdtRW5Kc2Vkbzg1QWVFVEdhOUF2NXVOTkdFcHhQVlRSa0UyeEN6emtzVk9OTGJNUzFCZTEtUVBiOTFuYXpuQWcwQjdMd1E0MlNXZm8yUThkS3dYNDRGdDlWajFTM0JnOExrbUdYeF9WYVpia012aUlESzRBZTNWZ0Y5MVU3ZA?oc=5\n2. 2026年贵州省高水平竞技体育后备人才基地训练营在清镇开营\n   → 2026年贵州省高水平竞技体育后备人才基地训练营在清镇开营 Sohu。\n   Sohu | 2026-11-14 21:50\n   https://news.google.com/rss/articles/CBMijAFBVV95cUxQcVVvc1AzVUd2X084OFgyX1BNVXcxNjlRT05QZFBJNnpNWXN2OS03SWlRZmNwal85ME9QN0k3RkRBdUVqTmZYeVJ4V2swNHZjWVFfMnNpN3U1Z1hLRWYtRDlLUXhSMVpQRDVKWTd0ZHBGZ3dmaXJBTXVLcE10OWRQbk9NSjhiVk8xaWFoMQ?oc=5\n3. 体教融童心，健康向未来，江岸区学前幼儿运动促进健康行动正式启动\n   → 体教融童心，健康向未来，江岸区学前幼儿运动促进健康行动正式启动 长江网。\n   长江网 | 2026-11-14 20:59\n   https://news.google.com/rss/articles/CBMiYkFVX3lxTE5Da19tZXFuUVBJa090cTNaUi1SbWtlZDRrME1OWFhlQVY3ZF9uVzVqdFJMWG54emtuWGFCMXAzMWNrMDMwM2ZhOGt4REtCcFN2cC1qWThqXzVJLXp4c0NlcEZR?oc=5\n4. 德安县第三中学斩获2026年德安县初中生排球联赛男女组双料冠军\n   → 德安县第三中学斩获2026年德安县初中生排球联赛男女组双料冠军 九江新闻网。\n   九江新闻网 | 2026-11-14 20:16\n   https://news.google.com/rss/articles/CBMiX0FVX3lxTE9EdnpmeEN0ZjJkVXV1M0x5Y2pUbWdwSXpoVXBURnA3R0hzVDVyOGhMWkx5TGV4MXdIdVlYSk5xU0tlejhRbUp4dlI1dWlhbFozS1RfQkFOLWxNN2NWRm5z?oc=5\n5. 校园快闪，足球少年踢出向上锋芒\n   → 校园快闪，足球少年踢出向上锋芒 新华网重庆。\n   新华网重庆 | 2026-11-14 18:48\n   https://news.google.com/rss/articles/CBMidkFVX3lxTFBWU2N4YnQtbUg3S1cydTFhdUJTYlhmZWg0bl8yY01udWF1MGI4czRCc3doaFlFc2ZWMTRJc2E3QnpYbUtfQXkwaFQzQ2V6NGI4S21QR2RsSm9fZU9ibVlRbXBDWDRNWUttNkZlam13SHd4RnpfV0E?oc=5\n6. 绿茵少年竞风采，支云助阵燃梦想 2026通州湾小学教育集团足球联赛开幕\n   → 绿茵少年竞风采，支云助阵燃梦想 2026通州湾小学教育集团足球联赛开幕 Sohu。\n   Sohu | 2026-11-14 18:05\n   https://news.google.com/rss/articles/CBMimwJBVV95cUxOX0x5eW5TY25fRlUwMnFaeno3SjBCTHU3TkpPYmVMeU95TFFkNF9xbmp0eEl4T04wZGptNlpxbzdUdmU2Z3JTOE9rY1d4MmZmSUIzdm1XVkF2bDNFTUFjLUZ5dEtjT1h1Z3VuelhlOXJpeHAyamYtc0ttdXNNS1RISXFmZnpKbVZpY2F2aHM1NERDUnVCUFpTdG5tUWZTWnpwUFlscTcxWUVoV2xrV1c0c2I3VEpEWFF6Wk1pUWNac3BoVjVkam5PX25HclBLeWt3Rm9BMHZTTXVUZHFGU2lMakpxMWpRY2o3UE5XR0JjcF9Qd05YeVp2aXhtX0gtMV9VaVFwak90Q0FkcVVhZlVDNFhxWWFqeFdHUDhj?oc=5\n\n【经济-产业数据】\n1. “2026年中国体育旅游精品项目”揭晓 西安两个项目入选\n   → “2026年中国体育旅游精品项目”揭晓 西安两个项目入选 华商网。\n   华商网 | 2026-11-15 07:47\n   https://news.google.com/rss/articles/CBMiX0FVX3lxTFB0LXJCT0NMSmNBWnVCdEhvTEVPOG90WW5RYnktN0NPaldYMXYyX2VfT1R0UUhKcnpPTlA5SjJITE5RMjlLa2NMLUN1enVDRFpyZVFmUUhrMHlBUjJYS1hj?oc=5\n2. 数智赋能 场景落地｜区域云体育app入口登录官方网址融合应用试点全面启动\n   → 数智赋能 场景落地｜区域云体育app入口登录官方网址融合应用试点全面启动 DoNews。\n   DoNews | 2026-11-15 05:46\n   https://news.google.com/rss/articles/CBMiWEFVX3lxTE9aQUJmYTU0MXBYZElPS3gzZDRvanpBRjJxckVjbzNVR2tNN2F5RXJUZDhZQTdBTG9Ja2FKend2eS0xUDZ6VzdLWHc1cHFzRmprdEppc055WXk?oc=5\n3. 米兰体育官网和官方旗舰店区别正式公布，权威解读两大平台服务升级与官方保障机制\n   → 米兰体育官网和官方旗舰店区别正式公布，权威解读两大平台服务升级与官方保障机制 DoNews。\n   DoNews | 2026-11-15 01:19\n   https://news.google.com/rss/articles/CBMid0FVX3lxTE9IUXVITTc1RXBwTFdjckotejZVcUVUZWh2c21ta2pyZ3piaHI2MmhJekNWNy1RMG0zelpNT05yZkhycDU5eDdEWm4zek1MZlAtYUZwQVJOVEFiNDJJWUNENFM0UXI3RWk0UnBfYW5HU091d2hkaFlN?oc=5\n4. 奔县游丨山水聚潮：赛事激活文旅消费新引擎\n   → 奔县游丨山水聚潮：赛事激活文旅消费新引擎 手机新浪网。\n   手机新浪网 | 2026-11-14 21:07\n   https://news.google.com/rss/articles/CBMigwFBVV95cUxPYkhKY1RuWTRmREY1amxJTFRHQkFrV0ZLUHRXSzB2U0RPWWNkLU5XWDMtcXprVGhmaEtvX3hKRG9ReG14STNGN2FCeE5ZWW4tMzJSWURmOXFxYzFDalB5ZHZadFAwMHNQTXlpbk1NSnpST3FXZ2JGYmpQaElSMlFZRG5nQQ?oc=5\n5. 获评国家级精品项目！成都邛崃“崃户外”全域步道体系惊艳亮相苏州\n   → 获评国家级精品项目！成都邛崃“崃户外”全域步道体系惊艳亮相苏州 Sohu。\n   Sohu | 2026-11-14 20:13\n   https://news.google.com/rss/articles/CBMiiwFBVV95cUxNSFJkN2p6QmhjV002MXAxTTQ2N0tGZ19ONTE4NTE5OTVUQkdhejJfeHp5UkRzNDJta1hVcnRKdjZOdW1wQmxrUWdwUUhCQmEwX1laaTJzT0VNZFc1SXIwVl95QTdNMW5XZ2FhMFg1UExTUDV3YkNlWTdlQjRyRHotLUJ4bmVMV3VPaXlz?oc=5\n6. 以优异成绩迎接自治区第十三次党代会召开｜一场场赛事点燃柳州城市活力\n   → 以优异成绩迎接自治区第十三次党代会召开｜一场场赛事点燃柳州城市活力 手机新浪网。\n   手机新浪网 | 2026-11-14 18:43\n   https://news.google.com/rss/articles/CBMiggFBVV95cUxNbHR5LWt6MWpYTDZIa1lpMU1fMHBQOWhMYTR3d3I5TEh6dEpLTjJwSXhEVENhY25WWXllZnJUQWlZNmM4YkhOYXE0d2g4SnFLOXNwb1BPQkppMzdhZWIyX195RFR5Ri1IdE1tS2RyVVBsR19rNjhoMExvMngtWXhhTE9n?oc=5\n\n【就业-教师】\n1. 全椒县2026年下半年教师资格证书领取公告\n   → 全椒县2026年下半年教师资格证书领取公告 新浪财经。\n   新浪财经 | 2026-11-14 09:29\n   https://news.google.com/rss/articles/CBMimAFBVV95cUxQUUpnd05BWUFiTjFjY2Y1SW5tMzBNRU5KbFNIMnBJLXRFdE51ME5RT2M3Q2JSaUItWUpzUDNBRXRlOFZnU08tNWtCMU9pdGgwc3pvVWo3NlowejJSQUZGNmQ0Y3dpZWlkbVp5ME5sTC1MekRuLXUtT2pCTzdkV2NNRDFsTF9HZFF5aFFUT05DVHpTaGdMY21nRQ?oc=5\n\n【深度-行业】\n1. 今日星空・综合体育速览：AI赛事数据中台上线 X3运动手表开启预售\n   → 今日星空・综合体育速览：AI赛事数据中台上线 X3运动手表开启预售 DoNews。\n   DoNews | 2026-11-15 05:46\n   https://news.google.com/rss/articles/CBMiWEFVX3lxTE1XVU96MFM5SXdCd3JzeWNGckg2SHd5R00xLVRMcU1NZU44VFZqWkJFSWdyaUJLUHhPOVVQRVlUZG5KaTM2QWxEb3NfV2dpc3BuVG9qbFdGRXA?oc=5\n2. 土球场到AI课堂！冠军梦在这里继续\n   → 土球场到AI课堂！冠军梦在这里继续 手机新浪网。\n   手机新浪网 | 2026-11-14 18:02\n   https://news.google.com/rss/articles/CBMifkFVX3lxTFBsRmVHdFB1U1I1MnlWa3NjODZLRHFwUTRkWmc4SUNWNms5enFMSFlpNnNSZHc3a0kwVmJZdndGaGViekFwUTQzM1A0XzRRTTN5aG84V1BoUTQ0bW5LTHhiQ1FRejZFQWJyNnFNT2Y1QjRGRXdFUjRBS1RaTGw0dw?oc=5\n3. 鲸鱼体育app官网下载品牌焕新升级：从运动工具到全民健身AI朋友\n   → 鲸鱼体育app官网下载品牌焕新升级：从运动工具到全民健身AI朋友 DoNews。\n   DoNews | 2026-11-14 06:45\n   https://news.google.com/rss/articles/CBMiWEFVX3lxTE1pUk5JYzI3YjQzWlRjRDVtZjB0di1BWVprc0JIa2x4ZFZkVzkwVS1lbEo0YkpEWHBTaUJvMDNQdnZQMmZHVldWMGhqRVRqcTdENF9QUTdHMXA?oc=5\n\n【综合-资讯】\n1. （体育）击剑——佩剑世界杯（开罗站）赛况\n   → （体育）击剑——佩剑世界杯（开罗站）赛况 Sohu。\n   Sohu | 2026-11-14 23:29\n   https://news.google.com/rss/articles/CBMiiAFBVV95cUxNRUhGQ1hRTmhEU1Mwa25FdDhDTGUxUHVWbFJINEJtUl8xNXMwQ1I3YTdPclFtZkNVU3dsY3RIMThpXzVSZ1F0NzlYdDJwUXUyb0dBRkRnd2VfMzRzbEhoT0VIcUdrSmRRaFpXX3NWdnAwSnNRdjZKRlpKaWtTa0RXRDF0ZFpnRHJ0?oc=5\n2. （体育）足球——国际邀请赛：中国队胜马来西亚队\n   → （体育）足球——国际邀请赛：中国队胜马来西亚队 Sohu。\n   Sohu | 2026-11-14 23:12\n   https://news.google.com/rss/articles/CBMiiwFBVV95cUxNcE5EeEpBR2hQRmphMDhwcmpQU1dodkdtUEVDUkYtNUtydmotVV9BTkd6MFY4QnVpTUJnOEtxb1pvUmlzdEdQYmtVdTRoY2xQaENtQWs3Q2lkNjhXYXF2NzgtbmR6SFhvQU5UZDBkZHdpSHpkQVZuQzNUSm5nYnZjYWFEV1VoMDFCcVZr?oc=5\n3. （体育）2026年贵州“村马”端坡马王总决赛举行\n   → （体育）2026年贵州“村马”端坡马王总决赛举行 Sohu。\n   Sohu | 2026-11-14 23:07\n   https://news.google.com/rss/articles/CBMiiAFBVV95cUxQSTVubnFBTTBnZ09TU2FYVUg4ZkhRR2ZnT3ZEeTktOTktbUM0Mk52Ylk0dkxETUxHTTJLaXRCVTM3cjMzYi1BR0lIV3I5WG5UWmotZDgzaGZjMlF5dWZqOEluMVNzMEpkc0dld0xCUW5YOEY1a2R4cHc1c0ZVZmtSSGNkRklwcElW?oc=5\n4. （体育）速度滑冰——世界杯（北京站）赛况\n   → （体育）速度滑冰——世界杯（北京站）赛况 Sohu。\n   Sohu | 2026-11-14 19:29\n   https://news.google.com/rss/articles/CBMiiwFBVV95cUxPN293U3NsVUhORng1TG1zUUhleGh5R09VNjNnYWxFQ3h4bC1sSUdfeV9lLWxqQ0hfOGhUMnN6SjY5eHU2N0NHNnRjNVVEMHJ6QlVMbHRab1pLamkwOUd6cTd0UUdZUUltTThuZzQ2Mm1hNWRoYTNOZW1CdG1KYThMZ1V0NlB4NFBRQ0NJ?oc=5\n5. （体育）击剑——女子重剑世界杯（无锡站）赛况\n   → （体育）击剑——女子重剑世界杯（无锡站）赛况 Sohu。\n   Sohu | 2026-11-14 18:54\n   https://news.google.com/rss/articles/CBMiiAFBVV95cUxQMzRUYld2TGhXTlN6RlBTa3dGSHFhUGQxY2phZXlkdXI2YWd6UHFSbENGQ3lYaG85ZFpjb3pDZDBnbEROZnBaZGVyWFF1Z1VPeGpkaENWLTFxQlROM1NQbWlIZ29mR0JBcmliWGNHd2xKSDJqNTVLTzktR2ZMRmgtcEoyaGozeng3?oc=5\n6. （体育）新疆可可托海：滑雪正当时\n   → （体育）新疆可可托海：滑雪正当时 Sohu。\n   Sohu | 2026-11-14 14:44\n   https://news.google.com/rss/articles/CBMiiAFBVV95cUxQV2JMeFpSNnZiS2loX1RrM1hERXdqLVJDX3Z2c2NoTGVGcmhvRXJlQVFFeDhaTWx3R2VqVmQ1XzhEM0ZZZnZCSWh5aHpfbEQtbHVNNU44OVlqQ0hfSWo0TGU2V1hfUnZKMFIwS2NaX2hkUmhzTGFqSzFfc0g3VU1HN01xdExRMk93?oc=5\n\n----------------------------------\n由「体育教育破壁日报」自动生成，无需人工干预"
+ "text": "体育教育破壁日报  2026-11-16\n==================================\n今日共 16 条 · 八类信息壁垒全扫描\n\n【政策-体教融合】\n1. 劈波斩浪挥桨竞技_ 民生资讯\n   → 劈波斩浪挥桨竞技_ 民生资讯 福建省人民政府。\n   福建省人民政府 | 2026-11-16 08:07\n   https://news.google.com/rss/articles/CBMicEFVX3lxTE94V0FJUGpfeG9HTlU0MllZQUxZYjFlakxSbkNGZjR0ekNWSzhqY1VTd01SbTVIRHc5c3Z4cnRreWVwNk5iUEMtOFY4Tms1QmpEckdxTTJwYjRWUnAtTW9RUUpEd0czS2I2Nlp1UDFIYk4?oc=5\n2. 两个博览会绘就文体旅融合新图景\n   → 两个博览会绘就文体旅融合新图景 国家体育总局。\n   国家体育总局 | 2026-11-16 08:07\n   https://news.google.com/rss/articles/CBMidkFVX3lxTFBxT3Z6eXZ4SXVvRU1ySm50c2dFd0R3aHhnU2o4VF9NZ19kbWJGUkttS19rQkpOc2Zjbm14aHczQ0pPQzJZRUhOVlFYRWtGejR6dHhlSDZiMFJRU0JNcE5FQWJZRG9IcTVYSVY5N0JGd0w5akU5T2c?oc=5\n3. 持杖行走悦祁连・登高健身展风采！2026年“双11”全国持杖行走联动日（甘肃张掖站）暨张掖巴尔斯登山健身大会启幕\n   → 持杖行走悦祁连・登高健身展风采！2026年“双11”全国持杖行走联动日（甘肃张掖站）暨张掖巴尔斯登山健身大会启幕 甘肃省体育局。\n   甘肃省体育局 | 2026-11-16 06:50\n   https://news.google.com/rss/articles/CBMiakFVX3lxTFBYbTJWanJzVXE3ZWFqWWdEUWhwLXlrQWIwUkJBUV9pck9QXzdoMkFKSkRaWWdkcFVwT1pWcTB0WlYwZ21VaUo2NXk3SFpubFU0eXR0Vy10QkVnQ0tnZDg4UEZGTG10eTlnSkE?oc=5\n4. 黄石将新建一座体育公园，位置就在……\n   → 黄石将新建一座体育公园，位置就在…… 黄石市人民政府。\n   黄石市人民政府 | 2026-11-16 02:14\n   https://news.google.com/rss/articles/CBMidkFVX3lxTE4yeGJEenhhNnJyd2J0T1hLVlQtMXpxZHVSLXR1Z0JkT3ZCZDY2MEJlblJrM3c5bVllc3ZhMmgwZG12SWtvTkJMdnk5NHRnNURpcmRUd0FqSGZ6SmtReUFHZE54X1NVUjZsVFpJbzJ5cldISUdCUHc?oc=5\n5. 2025年虎门镇体育中心项目绩效自评及财政抽查审核结果\n   → 2025年虎门镇体育中心项目绩效自评及财政抽查审核结果 东莞市人民政府。\n   东莞市人民政府 | 2026-11-15 20:35\n   https://news.google.com/rss/articles/CBMieEFVX3lxTE1NNkdsak5pa0UtX0FSQTBhVVg5V1U5bXVrN0pmMDJpTmNzUVNBTE5MMG1RbXBCX1VXeEdObTBKOU50ZU4wWWYzMDFfVmNrdk9WR2FVNGNMMlBDdE9ESE1OTkZ4VjlCX0dJZmx6OWlOckRvZ3ZqZUhDYg?oc=5\n6. 喜迎党代会·党代表风采| 张仁艳：深耕体育育桃李匠心笃行守初心\n   → 喜迎党代会·党代表风采| 张仁艳：深耕体育育桃李匠心笃行守初心 铜仁网。\n   铜仁网 | 2026-11-15 18:51\n   https://news.google.com/rss/articles/CBMiXkFVX3lxTE91SklwOE5BclpFN3I5S1hLLXk3YnVwaUViOVUyc2NNWTBSREFIVmZxc05oTHU2N3JSUUFxRTlpaVc5RVhkZHBYVFNlZXF1MHZmblNOYnpqUEFvSGo5Nmc?oc=5\n\n【经济-产业数据】\n1. 陇原体育活力足——2026中国体育“两个博览会”甘肃馆见闻\n   → 陇原体育活力足——2026中国体育“两个博览会”甘肃馆见闻 甘肃日报。\n   甘肃日报 | 2026-11-16 08:25\n   https://news.google.com/rss/articles/CBMic0FVX3lxTE9pMW11ak1kN1VKaEZ2NWFBdzBPM053X08zQTRwNndSUlg1Ni1XYjNlRnVXMlExYnhUQkstdHY4NXh2TXVCMTJRRjdsSkQxSWZDOUlZRGQ2ajdlMFJ5RlJjQUI3OEpPWi1JNVJYSUlVOWVqUVE?oc=5\n2. 深度运营成为冰雪旅游持续收益的关键 | 川观智库快讯\n   → 深度运营成为冰雪旅游持续收益的关键 | 川观智库快讯 川观新闻。\n   川观新闻 | 2026-11-16 08:08\n   https://news.google.com/rss/articles/CBMiTkFVX3lxTFA4UUhpYjRqWGdPcUdFZEJtdGVwalVDV2JYUDhKM1JLVl9WbnZ2Uzd2aHdQSUpRMUZvVFNTOHdPSmJDZWpUZFBHc3pETkZ2QQ?oc=5\n3. 江西户外运动产业“热辣滚烫” 到2030年总规模突破900亿元\n   → 江西户外运动产业“热辣滚烫” 到2030年总规模突破900亿元 凤凰网。\n   凤凰网 | 2026-11-16 07:33\n   https://news.google.com/rss/articles/CBMiSkFVX3lxTFBnbXJrMGp3ZlBwRlpIcTlwaVZSUUR6N2xiOW01Ym56T1M1VEVWa2RHckJKTENnai1ESzhWTU16YlgxZ2hPaUw3NVVB?oc=5\n4. 赛事引流旺消费！“奔跑江苏” 全民健步走带热苏锡通园区商圈\n   → 赛事引流旺消费！“奔跑江苏” 全民健步走带热苏锡通园区商圈 紫牛新闻。\n   紫牛新闻 | 2026-11-15 17:11\n   https://news.google.com/rss/articles/CBMib0FVX3lxTFBldmZSZVR4by00YXVJeWZGdVdWcFNNZVdkRmdXMXhPWUpFNFRlZ3ZSUS1wbU1yWjI5SWF3OVRoeXFuQVBzckRnakxMNEtKMnVHLVBTU2h6QTBuZ2VBZzVrRmtWLTdhZHpqak1jNmFoSQ?oc=5\n5. BLG夺冠背后的电竞生意经 赛事经济新风口\n   → BLG夺冠背后的电竞生意经 赛事经济新风口 中华网。\n   中华网 | 2026-11-15 15:52\n   https://news.google.com/rss/articles/CBMicEFVX3lxTE9iRFRneHY3MG5nOUFSXzBTbG5WeTEwcHNjZWFpNlVDUkw0STl1b1lVLUliSXNYbWVKcGx1ZGZWX0JUMjNwRG9zTGJlRTJrS3JQcGFzUG5nWVRUT0pTTlN6T3RncjNzeVNQSDR2X3ZfTVM?oc=5\n6. 动起来，消费“跑”起来——体育消费新观察\n   → 动起来，消费“跑”起来——体育消费新观察 央视网。\n   央视网 | 2026-11-15 11:28\n   https://news.google.com/rss/articles/CBMieEFVX3lxTE1pUWh5NFdYMlFlV3lyLXQ0Z2FQMjhySzJfeTMwajF2YUNBYjdTaC1fcnFoOHk0YTRWckhtWEdacXBiOU9UZjdBSFhhUE1vMHFZcFZockc3dV92UXpBNnl3UDhON1JqZG1nSjZpeVJnTzJiV0J3ZWR3Nw?oc=5\n\n【综合-资讯】\n1. BLG战队电竞项目夺冠，湖北黄冈市体育事业发展中心致贺信\n   → BLG战队电竞项目夺冠，湖北黄冈市体育事业发展中心致贺信 ThePaper.cn。\n   ThePaper.cn | 2026-11-15 15:22\n   https://news.google.com/rss/articles/CBMiYEFVX3lxTE9oYUNpb3RfMm01ZnNaaDF4dlU1VGtnTnlGR1VwWjJRWmhIckxSOGdWSnZCNTNHam5DUnpPcHo2MGRPYXhmaTRUSVZkZ0I4VDFzb2xzd20yWFItLVU3bnJLQw?oc=5\n2. （体育）2026建德马拉松开跑\n   → （体育）2026建德马拉松开跑 Sohu。\n   Sohu | 2026-11-15 09:28\n   https://news.google.com/rss/articles/CBMiiAFBVV95cUxOWkR0d21DQ1RmQ0s5azd2YW5mcGRzVG9kY3pycHlvSjF6ZXBxMTBUQTUtRGozNEpwbUsxbUljcUlBLWp0QnQxWGZjQVMyWmJTZzJ1R253djFrRVZjcTNhU0dHX3hYczV0REhIRFVvUTNfdGZLYTFmUEIwLXlWVl85bnF4SG9rTzd0?oc=5\n3. （体育）足球——国际邀请赛：中国队对阵马来西亚队\n   → （体育）足球——国际邀请赛：中国队对阵马来西亚队 Sohu。\n   Sohu | 2026-11-14 21:56\n   https://news.google.com/rss/articles/CBMiiAFBVV95cUxOb2puX0R6YlhkZGF1WldnOXdJczc2cWFDQW5tRnREQUMycjQ1Nml1QV9yaThCR0QyYlotNG5UUnRtM21VaGU0TWNjTGpLNmpRWnpHSXlfZ1UtcGVjS3NuNDh4TVhoSURFVE1wQ1FUejEtb1ZNYTY0VlJwYTlXWTBWOGNuVHhPZ3pY?oc=5\n4. （体育）速度滑冰——世界杯（北京站）：宁忠岩获得男子1500米冠军\n   → （体育）速度滑冰——世界杯（北京站）：宁忠岩获得男子1500米冠军 Sohu。\n   Sohu | 2026-11-14 21:28\n   https://news.google.com/rss/articles/CBMiiAFBVV95cUxNQWxwcFVnc0dnejZGV2dfVm1IOEJYX09kU0Zjc3B5X3I1NWl3YVVxYmFSQnZ1OXhCTnlxSldmNy1icnp0OFB3a1pXanJnSm5yRWtVVHo0MDBjVXRhSnNEWm5UTXNDS1VsMXB5UkNTOGs4SzBON2owSk1IMXl1SkF3alF4eTEweFJB?oc=5\n\n----------------------------------\n由「体育教育破壁日报」自动生成，无需人工干预"
 }
