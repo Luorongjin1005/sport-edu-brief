@@ -1,0 +1,62 @@
+[08:33:01] ===== 体育教育破壁日报 开始运行 2026-11-20 08:33 =====
+[08:33:01] 去重记忆：391 条指纹，保留 60 天
+[08:33:01] ① 关键词检索通道：共 34 条检索式
+[08:33:15]   ! 检索失败 [十五五 规划 体育] HTTP Error 503: Service Unavailable
+[08:33:29]   ! 检索失败 [政府工作报告 体育] HTTP Error 503: Service Unavailable
+[08:33:39]   ! 检索失败 [中央经济工作会议 体育] HTTP Error 503: Service Unavailable
+[08:33:54]   ! 检索失败 [体育强国 建设 规划] HTTP Error 503: Service Unavailable
+[08:34:16]   ! 检索失败 [site:gov.cn 体育 意见] HTTP Error 503: Service Unavailable
+[08:34:33]   ! 检索失败 [site:gov.cn 体育 规划] HTTP Error 503: Service Unavailable
+[08:34:50]   ! 检索失败 [site:gov.cn 体育 批复] HTTP Error 503: Service Unavailable
+[08:35:06]   ! 检索失败 [体教融合 体育教育] HTTP Error 503: Service Unavailable
+[08:35:24]   ! 检索失败 [教育部 体育师资 扩招] HTTP Error 503: Service Unavailable
+[08:35:42]   ! 检索失败 [三大球 后备人才] HTTP Error 503: Service Unavailable
+[08:36:01]   ! 检索失败 [学校体育 体育课 课时] HTTP Error 503: Service Unavailable
+[08:36:20]   ! 检索失败 [专兼职教练员岗位 学校] HTTP Error 503: Service Unavailable
+[08:36:38]   ! 检索失败 [公费师范生 体育] HTTP Error 503: Service Unavailable
+[08:36:56]   ! 检索失败 [体育产业 总规模 公告] HTTP Error 503: Service Unavailable
+[08:37:13]   ! 检索失败 [体育教育与培训 增加值] HTTP Error 503: Service Unavailable
+[08:37:31]   ! 检索失败 [赛事经济 消费] HTTP Error 503: Service Unavailable
+[08:37:53]   ! 检索失败 [户外运动 产业 目的地] HTTP Error 503: Service Unavailable
+[08:38:11]   ! 检索失败 [冰雪经济 规模] HTTP Error 503: Service Unavailable
+[08:38:25]   ! 检索失败 [体育用品 制造 升级] HTTP Error 503: Service Unavailable
+[08:38:42]   ! 检索失败 [体教融合 征稿] HTTP Error 503: Service Unavailable
+[08:38:59]   ! 检索失败 [学校体育 征文] HTTP Error 503: Service Unavailable
+[08:39:18]   ! 检索失败 [体育教育 课程改革] HTTP Error 503: Service Unavailable
+[08:39:37]   ! 检索失败 [体育学 CSSCI 期刊 目录] HTTP Error 503: Service Unavailable
+[08:39:58]   ! 检索失败 [AI 学校体育] HTTP Error 503: Service Unavailable
+[08:40:16]   ! 检索失败 [体育科学学会 征文 通知] HTTP Error 503: Service Unavailable
+[08:40:37]   ! 检索失败 [ICSSPE physical education] HTTP Error 503: Service Unavailable
+[08:40:55]   ! 检索失败 [AIESEP conference] HTTP Error 503: Service Unavailable
+[08:41:13]   ! 检索失败 [FIEP physical education] HTTP Error 503: Service Unavailable
+[08:41:31]   ! 检索失败 [体育教师 招聘 编制] HTTP Error 503: Service Unavailable
+[08:41:52]   ! 检索失败 [体育教育 公费师范生] HTTP Error 503: Service Unavailable
+[08:42:12]   ! 检索失败 [教育局 体育教师 公告] HTTP Error 503: Service Unavailable
+[08:42:31]   ! 检索失败 [懒熊体育 体育培训] HTTP Error 503: Service Unavailable
+[08:42:49]   ! 检索失败 [体育大生意 体教融合] HTTP Error 503: Service Unavailable
+[08:43:07]   ! 检索失败 [体育 政策 新华社] HTTP Error 503: Service Unavailable
+[08:43:08]   ✓ 检索通道成功 0 / 失败 34
+[08:43:08] ② 现成 RSS 通道：共 3 个源
+[08:43:08]   ! RSS 解析失败（ICSSPE）：mismatched tag: line 93, column 2
+[08:43:08]   ✓ ICSSPE：0 条
+[08:43:11]   ✓ AIESEP：8 条
+[08:43:11]   ✓ 中国政府网原创推荐：6 条
+[08:43:11] ③ 预印本平台（OSF 接口）：共 2 个
+[08:43:12]   ✓ SportRxiv：7 条
+[08:43:13]   ✓ EdArXiv：0 条
+[08:43:13] ④ 页面监控通道：共 6 个栏目
+[08:43:14]   ✓ 体育总局-通知公告：8 条候选
+[08:43:14]   ✓ 体育总局-信息公开：8 条候选
+[08:43:15]   ✓ 中国政府网-最新政策：0 条候选
+[08:43:18]   ✓ 国家统计局-最新发布：0 条候选
+[08:43:18]   ✓ FIEP-官网动态：0 条候选
+[08:43:19]   ✓ 懒熊体育-首页：3 条候选
+[08:43:19] 合计抓取候选 40 条
+[08:43:19] 去重结果：保留 0 条 | 历史重复 26 | 超出时效 14 | 批内相似 0
+[08:43:19] 已写出 5 个文件到 out/
+[08:43:19] ⑤ 推送阶段
+[08:43:19] 今日 0 条，推送空日报提示
+[08:43:19]   - Bark 未配置，跳过
+[08:43:20]   ✓ WxPusher 推送成功：{"code":1000,"msg":"处理成功","data":[{"spt":null,"uid":"UID_tgTac6TjxeZfwReNANTmnyy6AKjZ","topicId":nul
+[08:43:20]   - 飞书未配置，跳过
+[08:43:20] ===== 运行结束：共 0 条 =====
