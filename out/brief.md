@@ -1,148 +1,120 @@
-# 体育教育破壁日报 2026-11-22
+# 体育教育破壁日报 2026-11-23
 
-> 今日共 **32** 条 · 八类信息壁垒全扫描 · 自动生成于 2026-11-22 08:28
+> 今日共 **25** 条 · 八类信息壁垒全扫描 · 自动生成于 2026-11-23 08:34
 
-## 规划-十五五（6）
+## 规划-十五五（2）
 
-1. **麻将胡了体育app是什么 发布AI赛事系统：超10项智能能力重构青少年乒乓训练**
-   麻将胡了体育app是什么 发布AI赛事系统：超10项智能能力重构青少年乒乓训练 iheima。
-   `iheima` · 2026-11-22 03:51 · [原文](https://news.google.com/rss/articles/CBMiekFVX3lxTE1fX1FucEM0R1dnQVBlb0hHS3FMYW1xOG0xekFXLUhOb3p3bWpSUkZvd1FYQlBjb1Y0Ujk3dmlaWFR6VkxyaEVVQ1RxWkhSMWhSRFR4S2QxSVZGLVc1Rm1VOVNOVnd1VE9wUGM4Q2xtUnczTFFYRzhBdGlB?oc=5)
+1. **京津冀全民健身协同发展聚焦八大重点任务**
+   京津冀全民健身协同发展聚焦八大重点任务 华奥星空。
+   `华奥星空` · 2026-11-23 08:30 · [原文](https://news.google.com/rss/articles/CBMiZkFVX3lxTE5UN0hfNlU4RVRUR2p5bE1fZWFpS2hzcTRhNTJ1SVJtY3luNE9rQWFvWFN6X2hxempHWTU3SVQzSE5BSG1CNEJKWUxzeHcyOV9KTEJUTkpyS2h6Q2c2QlJtdmZiTGV6dw?oc=5)
 
-2. **科技驱动下的人生就搏体育官网入口合法吗：从草根到顶级联赛的产业生态重构**
-   科技驱动下的人生就搏体育官网入口合法吗：从草根到顶级联赛的产业生态重构 iheima。
-   `iheima` · 2026-11-22 00:54 · [原文](https://news.google.com/rss/articles/CBMickFVX3lxTE5kR2NKRTdBYXJpQzNSdEVvLUNoNXdIV2N5UllhMVM0RFFoVXJnT1Q5Zi0zcHNKN1VyTjlCb2RjSEFJZXhKcFNWa1ptVFN6b3R6N2tzdTlnV2otSEFZTi1sa21rTnA2Y1V0U3J2UW5yUDdlQQ?oc=5)
+2. **哈尔滨全民滑雪年启动 解锁全新冰雪运动时代**
+   哈尔滨全民滑雪年启动 解锁全新冰雪运动时代 Sohu。
+   `Sohu` · 2026-11-22 14:58 · [原文](https://news.google.com/rss/articles/CBMiiwFBVV95cUxPNGFaY1ZyV3RfVlBWTHFQU2tJQXVXT3FYS3ZQUXNOX3VsY3VYdTdldnE3d1B5UmExaTY5TXhOS3VnTjR5aS1BdHB6Smg3MjdySkE5R1RhWGhxTnZOcWItNElRdTlMNFNpWUJkM0FlZ0FpSFNfVEM1VUowblVFV0MwM1NUSGROeDlONThR?oc=5)
 
-3. **越秀地区职工趣味运动会举行 凝聚干劲建功“十五五”**
-   越秀地区职工趣味运动会举行 凝聚干劲建功“十五五” 广州日报新花城。
-   `广州日报新花城` · 2026-11-21 16:48 · [原文](https://news.google.com/rss/articles/CBMiigFBVV95cUxNN2RMcklYX3o1cW1tR01lMjdUM2IxUzNISmcxSm1GanVLYXEybld6a3pfV2NqY2hrejZEcHBsN0tZQUF6eHp2a0c1Zy1HWHdFT0s2MU9SbWsyUWxoNUxCbklPdXNBWkpVNFNueURWZGRPU1N5cUtxOTRpODVoVHRkYlh3Z2lKRm5xV0E?oc=5)
+## 政策-体教融合（6）
 
-4. **体坛报：浙江足球青训新政瞄准2030年走在全国前列**
-   体坛报：浙江足球青训新政瞄准2030年走在全国前列 懂球帝。
-   `懂球帝` · 2026-11-21 07:06 · [原文](https://news.google.com/rss/articles/CBMiV0FVX3lxTE9BOXZ2ZVZvdGNwNkl5RTFSNmRvU1NkMTQ5RjdleVItcVItYmx1b3JYY0NQZklZdDJoUDVLMzFfaGotME8xUF93NERNdkpuaWxZaG9kS3BQRQ?oc=5)
+1. **以体为桥、以赛促融、以文润心 ——四川省第十七届少数民族传统体育运动会综述**
+   以体为桥、以赛促融、以文润心 ——四川省第十七届少数民族传统体育运动会综述 国家民族事务委员会。
+   `国家民族事务委员会` · 2026-11-23 00:58 · [原文](https://news.google.com/rss/articles/CBMiZEFVX3lxTE5zV2ZwcXZCRGR5QkkwNEIwdHlVZml5a2dELXdEVTJaSlBNLWoyWVFvOF9uMUs3amtVVFZZalVJS3FkS2xIUmx6eVlTQU85M1QyVEE3LS1mWl9UNnUtWEQybHdtNVc?oc=5)
 
-5. **孙颖莎入选2026年度百大体育影响力人物榜单**
-   孙颖莎入选2026年度百大体育影响力人物榜单 新京报。
-   `新京报` · 2026-11-21 06:26 · [原文](https://news.google.com/rss/articles/CBMiYkFVX3lxTE0tbjhENmMxNUtZWjFxMVhFSEpYRVNmSVBWOTdUalBCZ2ZJZm9JU0VsaHBmRndqMm5vckZUNGZzRVh5N1NBOGg3aF9XejhKdzB5dlNFQlVYOFZURUhWTmN6d2dR?oc=5)
+2. **小学操场可望宏福苑调整体育课场地护心灵｜即时新闻｜中港台｜on.cc东网**
+   小学操场可望宏福苑调整体育课场地护心灵｜即时新闻｜中港台｜on.cc东网 on.cc東網。
+   `on.cc東網` · 2026-11-23 00:14 · [原文](https://news.google.com/rss/articles/CBMijwFBVV95cUxNUnZwUUZZdEZYNHB3RGNMTDZQQ3hWX1libl8tMU9XY01jWER4R25ZbWRuU1RXeVo3aGNua05ieEpBSkRWeExSclRzUXAyZ3F2aTdTYU91S2plcGVZYlh5RTNiR2JCYzhGLTJrZjY0ZVYtRWhnVlgzdk90SWZneWdzaXNBbWpPdVhReWZ4Tlpyaw?oc=5)
 
-6. **万亿DIY电脑市场启幕：2026从配置竞赛迈向智能优化元年——体育投注能信任吗深度解析**
-   万亿DIY电脑市场启幕：2026从配置竞赛迈向智能优化元年——体育投注能信任吗深度解析 iheima。
-   `iheima` · 2026-11-21 00:26 · [原文](https://news.google.com/rss/articles/CBMiX0FVX3lxTE91cjhnMEFZSjFGOVptcmc4Mjh6NnRQSXhYeXIxMXYtSHdNM3dFWWFGaEpZOHlFaGxLcVYtRDFWLVViWFcwSHhjOWloSnFhQmZfamg3bmN1M3ZUMGNBRDhz?oc=5)
+3. **冠军点燃少年体育梦**
+   冠军点燃少年体育梦 Sohu。
+   `Sohu` · 2026-11-23 00:00 · [原文](https://news.google.com/rss/articles/CBMijAFBVV95cUxOaUh4YzNaNVFBUnVSRmFQVjVFWjVYM2dyU3hxYklRQ01IWDRwM2tPRHNGc05vcTRwTmZIUGQ1N3VuZlFBcHU2MWJsNzRrNTdablpsOEFhVy1tNUw1T09hdFJ1RlpmeVNRTl9qWF85WU9Na3RvZHoyVHpEWEptVUduNFoyTU1OOTJpRFFkQg?oc=5)
 
-## 政策-体教融合（5）
+4. **体育促进青少年身心健康系列赛事暨2026年竞秀区第八届校园健美操啦啦操比赛圆满举办**
+   体育促进青少年身心健康系列赛事暨2026年竞秀区第八届校园健美操啦啦操比赛圆满举办 Sohu。
+   `Sohu` · 2026-11-22 22:07 · [原文](https://news.google.com/rss/articles/CBMijAFBVV95cUxPT3ZHRUZLUnhReUgyMXRPQkpMQTVyMUVqZ3lTczgxVGdWSTBHUVJuOFp1YTBnWGp1a3ktTVRQSE14TTJlbTNZU0N3bnF2NU56eVVGTkRMeEpiSkhveVhsU29xRWNiZ2RhbVpyaEFDakR6aE53TzU0MTJ3OS1ib1FwUXZ4cDRyc1k4X1NMaA?oc=5)
 
-1. **习近平：关于《中共中央关于持之以恒推进全面从严治党若干重大问题的决定》的说明**
-   习近平：关于《中共中央关于持之以恒推进全面从严治党若干重大问题的决定》的说明 国家体育总局。
-   `国家体育总局` · 2026-11-21 19:49 · [原文](https://news.google.com/rss/articles/CBMiekFVX3lxTFBHNjV6em9rY21lVUNTXzNYbzJ4Z0VKcXE5Tms0di1BR090cnRfN2ZUMGt6N0R4TV9velY0Qm1Vc1luTTNoSm5oVHlGd0JLdjliZDdQY3lWVkpVdExzMWxoTXZaNGwxeGZXNUh4bDlkVkhmVnBNSE5NMkNn?oc=5)
+5. **参赛规模刷新历届纪录 2026年厦门市青少年三大球联赛收官**
+   参赛规模刷新历届纪录 2026年厦门市青少年三大球联赛收官 东南网。
+   `东南网` · 2026-11-22 22:01 · [原文](https://news.google.com/rss/articles/CBMiYEFVX3lxTE1jZ2R4VmZkNlcwRzRQWjJqekQyZmNWOXE1bXQ2SzREZmhuc3NmeUNITGlfZ2ZMQS1jM0h5M3lDMU5GTFBhVHhwZVJ5NTFpekF1SG5UOEZNWkVjZWNNNks2ZA?oc=5)
 
-2. **旅游景点体育文化公园**
-   旅游景点体育文化公园 清镇市人民政府。
-   `清镇市人民政府` · 2026-11-21 17:22 · [原文](https://news.google.com/rss/articles/CBMickFVX3lxTFBrVkxlV0JTUFpMU3M5UVhra214V2pQTl9TdkptWlZXbWlpWi1mMXBCV3ZmcHdGXzMxcGE1RzllekxiQmJlMC1peVlEOFFXTjhMdDUyX3EtX1FwQnVyQm1YeVhlMUJWaWhOaFZ1MjhYMnlhUQ?oc=5)
-
-3. **10所高校53名选手同场竞技，上海市运会高校高尔夫球赛青春挥杆展风采**
-   10所高校53名选手同场竞技，上海市运会高校高尔夫球赛青春挥杆展风采 上观新闻。
-   `上观新闻` · 2026-11-21 10:46 · [原文](https://news.google.com/rss/articles/CBMiWkFVX3lxTE80UXN1S1AybDdqNnVnNHlyczkzdldkQlJRNS1DVlpORnM0LXRpSk5pRGhzWGRRR0dhbnB1WldLWkRkdV95NHRTRVYwMXdoV081SEE3MXZ3anVmUQ?oc=5)
-
-4. **硬核出圈！重庆建筑工程职业学院健身健美队实现历史性突破**
-   硬核出圈！重庆建筑工程职业学院健身健美队实现历史性突破 华龙网。
-   `华龙网` · 2026-11-21 10:30 · [原文](https://news.google.com/rss/articles/CBMia0FVX3lxTE1ueUdiR2VHazNHemRTMDVTUURETlVKdGVYanVuZlFIaVJvZTFsMjJRMU1leThHcEF5RmR5MFRXUEQ3RUZfMnFxZlV6NUZFWVEwLTVtTnhDYnlEU0dFdXJWeWoyWmNWNmpqQVFB?oc=5)
-
-5. **沧州市新华区教育体育局重大行政执法决定**
-   沧州市新华区教育体育局重大行政执法决定 新华区人民政府。
-   `新华区人民政府` · 2026-11-21 07:08 · [原文](https://news.google.com/rss/articles/CBMiugFBVV95cUxOa05kRWNFU0IzU1BWa2RBQXB4TEFRckV5REJtNDNvanhXYjh0OTVlVXF3N21ZTk4xQmpXcFl2d3RMb3piNkpQMDUyV0VOTWltZ2VvQi01Z0NSZHZfSmF5dTN1LXRpanB2LVZib1V5dkFIVTRXbmc0cW50WFJfZTdpWDd4MnEyc0pfVlZfQzJfVVZHUGl2NV8wTGNHeHdlTGVVUjZ5OXRTUEhySVZTN1B5RDlHY0I2RmN3bUE?oc=5)
+6. **体育赛事_首都之窗_北京市人民政府门户网站**
+   体育赛事_首都之窗_北京市人民政府门户网站 北京市人民政府门户网站。
+   `北京市人民政府门户网站` · 2026-11-22 20:41 · [原文](https://news.google.com/rss/articles/CBMigAFBVV95cUxNc0ZLX0NHV0x6Tk9nUDh5amtucEc5VUJ1OURPTVNWMjN1X1c1TG03MFZySGZSUU9IMGFTSDBxbUdCMXJ0QnFOWFdoR0tyWVlBUU5fYktrdTNCWFhpMVd4eHVzYkdqTXlzaW9RZnpnWFpUak02SjF2T3ZvaFA1bk5HUA?oc=5)
 
 ## 经济-产业数据（6）
 
-1. **导语：a.yx体育首页最新版产业规模突破新高**
-   导语：a.yx体育首页最新版产业规模突破新高 iheima。
-   `iheima` · 2026-11-22 01:47 · [原文](https://news.google.com/rss/articles/CBMiX0FVX3lxTE9UWEpGeGRmZ0tQSlRpOXBmLWgxdkdtUDlONXZ3ZXA1UFJXYlpMcC1VNjlXb3BqQ2l5MVJsXy1MMU8zdy1mSV95bmNfcDh2T3BjcVZRdWJEeHdTZUxWa2cw?oc=5)
+1. **跑进斗城烟火里 激活“赛事+”活力 2026温马引发全城消费热**
+   跑进斗城烟火里 激活“赛事+”活力 2026温马引发全城消费热 温州新闻网。
+   `温州新闻网` · 2026-11-23 08:28 · [原文](https://news.google.com/rss/articles/CBMiZkFVX3lxTE5HVGpreVVIWVpvaU0wY1ZHZ0VfZUNnUV81WXg5MHZlUG9CQjAxc0dRSTh1NWFBdmVCMFY0NHBxWkJPbGRIWERaQ3cxS3Bsb3JCTmp1N2tnWmZWVUdOaHBFVWRlbzk3Zw?oc=5)
 
-2. **2026/2027四川省城市足球联赛德阳开幕 点燃冬天里的一把火**
-   2026/2027四川省城市足球联赛德阳开幕 点燃冬天里的一把火 Sohu。
-   `Sohu` · 2026-11-21 22:39 · [原文](https://news.google.com/rss/articles/CBMiiAFBVV95cUxNUnFUbzl2aFdUWS1XZVlyY3lUY2NUSm1xMU5ZMm4yd0R3ZkhfR2lCY196SGpYUlhCRkxyeGc0blFEVnNUR1poMmloNG8zeUp0RHA3OEVCNnRkcVgwQ19QX0thTWFfZXRYaDVKd3d3WXZpLXE1MWtIenBQS01oTEcwZE9JUzNTT0xm?oc=5)
+2. **十年南马，正式开跑！普通人上台发枪，赛事创新纪录**
+   十年南马，正式开跑！普通人上台发枪，赛事创新纪录 紫牛新闻。
+   `紫牛新闻` · 2026-11-22 16:28 · [原文](https://news.google.com/rss/articles/CBMiekFVX3lxTE85bjZoVUJuRExEMXFBNl9mdTRRNmVpZ1RaR0dUck9rQVhoZzEzTE1xOThVNElaWHVaWUxiaHFERHJsaVhlLVZNOHJidUJtbHlBWjk4dDVnNGlzMy03N0YtSjVTUmhlREg3SzdjQ2VLQmNTRkJrRmVkWjZR?oc=5)
 
-3. **manbetx提款周期y平台发布会：数据驱动，赋能体育赛事精准决策**
-   manbetx提款周期y平台发布会：数据驱动，赋能体育赛事精准决策 iheima。
-   `iheima` · 2026-11-21 18:38 · [原文](https://news.google.com/rss/articles/CBMiVkFVX3lxTE5yLXA4Q2t3MUhCRllIUHZzWUo1cTZCQzBSS2tjWkttdHRMTmhvejJZakxxQmtVMVRVWVo0a2lmQVVIaUxOZWQ1cWxyeTFHZzJvNXQ0ZkNB?oc=5)
+3. **从皇冠体育登陆入口安装看微单生态演进：影像产业数智化转型的经典范本**
+   从皇冠体育登陆入口安装看微单生态演进：影像产业数智化转型的经典范本 iheima。
+   `iheima` · 2026-11-22 16:23 · [原文](https://news.google.com/rss/articles/CBMiUEFVX3lxTE5sZkFCMkM0d0Q0RXJSd1NtcGRNOVRuQjNMVXQ5UEtpdEZ2RVFXcS1aMXd6Y2EwaW5mRXRQMzFVZ3JxNXhNaGZjeVJEc3VKLUd6?oc=5)
 
-4. **福建省第十八届运动会落幕 福州代表团斩获四项第一**
-   福建省第十八届运动会落幕 福州代表团斩获四项第一 欧洲头条。
-   `欧洲头条` · 2026-11-21 17:06 · [原文](https://news.google.com/rss/articles/CBMi0AFBVV95cUxQNXpxdkVZOXprR0N3NWZWMWlEMWJQaDVETVk4U3NKYzF1QkZmci1JNm94R1VzbTNlWTV6ZTlKX0ZXa0x4LUlXdk53VTVydXlrcDY1SGhENkprZkNSQjlBdFM3cG1pdXg1NVhjMHhCZ2tudGZUMnNyNHg5RHk0V216YWNNdmpNZ0tqeFRGRmg1d0JRcU9wX1Y2cmJ5RjBXYjFSaWRxUGlFN003R0s3bmVnc3pTdGYxZ2ZmQ2N2dnU4UnVhbU1IUmhVMXN2ZHA1R28x?oc=5)
+4. **诸暨市第十一届运动会暨第十二届老年人运动会开幕**
+   诸暨市第十一届运动会暨第十二届老年人运动会开幕 潮新闻客户端。
+   `潮新闻客户端` · 2026-11-22 14:34 · [原文](https://news.google.com/rss/articles/CBMic0FVX3lxTFBSRUtaQm1xTzR4aWpzb0p4akJsX091cXRfcUkwSm9Od0hRdE9wa2VkeGNyd3BUcGJ3ek1kOUpfQjgxai1kZFVsY3AzNDVVc0c5N25vd3UzZWdfd1ZsOWlmei1RNnhZalNWVF9TbUR5ek11eEk?oc=5)
 
-5. **湖南省体育局公开征求意见，拟出台体育赛事和体育会展经济激励措施**
-   湖南省体育局公开征求意见，拟出台体育赛事和体育会展经济激励措施 新湖南。
-   `新湖南` · 2026-11-21 16:50 · [原文](https://news.google.com/rss/articles/CBMiX0FVX3lxTE1hS0NPQ0t3R193dUV5Rkhha1RfU05lR3ZqWnh1SXBMb0xPUlhHUnM2eG9FTmdWYmtYcWxuTFZvbVRJelppODdabU9BdmlPb3d2M0JFTWpmemhLenozMTd3?oc=5)
+5. **中体联产业服务平台体育资源对接活动走进广西贵港**
+   中体联产业服务平台体育资源对接活动走进广西贵港 Sohu。
+   `Sohu` · 2026-11-22 14:00 · [原文](https://news.google.com/rss/articles/CBMijAFBVV95cUxQVWJYNFpCaUg4cWo5TFE4SmNPeGJJMFNXZjljMmNkWHJDTThnTWwxZnBOS0RqZUxHSXF4UXlfR0NyUklCbVRtYmpucUJQTXZyTXZGb3lBN1Y2Y0dBQi1fQ0VPUXRIZzF4akI3M0Z4aDhXYTBmMUlsb2JQMWdMSVV4d3VxYnd5SVBXTzNiRg?oc=5)
 
-6. **产业规模破万亿元！高铁直达、夜场升级，冰雪消费提前升温**
-   产业规模破万亿元！高铁直达、夜场升级，冰雪消费提前升温 河北广播电视台。
-   `河北广播电视台` · 2026-11-21 14:07 · [原文](https://news.google.com/rss/articles/CBMiX0FVX3lxTE11LTlFVkhPekhvdmhzZmFrMVJBWXo4SUxRaWpFcG52bWFpU3k1R0g1RW5Bb3BVQTNRSnVMMllZb3hvUGQySmtXSGVaT0NFTW5qTGZzS1hYRmtQaU1wXzZB?oc=5)
+6. **竞争力无法替代，外资坚定加码！中国在全球投资版图中重要性凸显_综合要闻_HRB蓝网**
+   竞争力无法替代，外资坚定加码！中国在全球投资版图中重要性凸显_综合要闻_HRB蓝网 哈尔滨广播电视台。
+   `哈尔滨广播电视台` · 2026-11-22 13:23 · [原文](https://news.google.com/rss/articles/CBMiZkFVX3lxTE9MeUl3SkgtUy1lZC10MHdOSzlnTk8zRnY5TjB5eVVLVlpDcmtKQXpRaUFHM3lkbHJQZ3Q0clBXb0U3dTRZbWV5S2xzQVpnelJ3czZhTDJiX3RXUDBUQ1J0MkFsQjYzQQ?oc=5)
 
 ## 学术-征稿（2）
 
-1. **内蒙古鄂尔多斯举行中小学体育教育改革推进会**
-   内蒙古鄂尔多斯举行中小学体育教育改革推进会 央视网。
-   `央视网` · 2026-11-18 17:14 · [原文](https://news.google.com/rss/articles/CBMiekFVX3lxTE55MUFfMW5lNF9fa1VyT1ZHYjNrWUlhdGFWUzB1X1pBeWFTUlptSUR1SFpQVmFsTWtwczdPYWQyei1FaHlhZEsyS0g1SGNLSk15VTd6Z0VYalBTam1ibFNHaW5jVGYtZV9rRXpEa0VEWGgzVFFIcV9vRTVn?oc=5)
+1. **我市中考体育改革方案初稿基本形成**
+   我市中考体育改革方案初稿基本形成 凤凰网。
+   `凤凰网` · 2026-11-18 11:48 · [原文](https://news.google.com/rss/articles/CBMiTEFVX3lxTFBIdmRNdkVFUldjOEVZcEZ5ZmQzcXZYSms3dHRrM3ZESmJ3WmNIUWNoUGd3WUg4Yzc2WU1JSVVxMjBrWXF4dk9DN2xfMnI?oc=5)
 
-2. **签署合作协议，AG体育账号联合创新中心正式成立**
-   签署合作协议，AG体育账号联合创新中心正式成立 iheima。
-   `iheima` · 2026-11-18 16:01 · [原文](https://news.google.com/rss/articles/CBMiUEFVX3lxTE5PQk94b0RlQ2pINWZvVWVqTU9yTjdaTVlkS2U3REx2dGJDMi1GOEVIZUMxdmpCanZwN09pUmhjYi1xN01nREViRTctMXlFVFFm?oc=5)
+2. **体育青年对党说 | 何雨轩：跨越百年青春的问答**
+   体育青年对党说 | 何雨轩：跨越百年青春的问答 凤凰网深圳。
+   `凤凰网深圳` · 2026-11-11 16:00 · [原文](https://news.google.com/rss/articles/CBMiSkFVX3lxTE1qanVqaDZqbVlUWlpNaG9qTXExMF9lRWtTamdSZGFDa1NMcEd1djYzMWFxSG4wOU0zOW8tMS1MY1QtODdwaFFaYWln?oc=5)
 
 ## 就业-教师（1）
 
-1. **全省现场会走进信都观摩中小学体育工作**
-   全省现场会走进信都观摩中小学体育工作 Sohu。
-   `Sohu` · 2026-11-21 11:38 · [原文](https://news.google.com/rss/articles/CBMijAFBVV95cUxNTmZyZS0tNDhaSU5TdHFDeGdLYlRrcXJ5ZHB6NVZaZDZycTZfRnRBU2RLMXI5Q19zZEVFaTBlblZ0eTJmX213TlBHdUNaNk5Hb0t3Qk5MWUFHY2lYZENaTE1famZLYnlNU1JaMF9QLTJRdWt3eGRHcjZHM2ZNWWlUZndiQWlPdDNOWC1jZg?oc=5)
+1. **乌冷县教育局 办匹克球工作坊及团体赛**
+   乌冷县教育局 办匹克球工作坊及团体赛 e南洋。
+   `e南洋` · 2026-11-22 20:40 · [原文](https://news.google.com/rss/articles/CBMiYEFVX3lxTFBWRUI5Tk1WUFotY01KdkdTRU5pNmkwUjdnSHY5WWowZEk0bDU3bENaUldZRmU2eDdiYWpnc2N3dlM4aWxiclVDSE5MOEFxc3BDMlFJSGJrU0Uxc0dsWXpJWg?oc=5)
 
-## 深度-行业（6）
+## 深度-行业（2）
 
-1. **大公司一项运动的奥运前夜，一家滑雪品牌的四十年**
-   （该源未提供摘要，点标题看原文）
-   `懒熊体育-首页` · 2026-11-22 08:28 · [原文](https://www.lanxiongsports.com/posts/view/id/26165.html)
+1. **中欧zoty体育官网入口平台发布新生态，2026粤港澳大湾区数字经济大会圆满落幕**
+   中欧zoty体育官网入口平台发布新生态，2026粤港澳大湾区数字经济大会圆满落幕 iheima。
+   `iheima` · 2026-11-22 10:58 · [原文](https://news.google.com/rss/articles/CBMic0FVX3lxTE16dzMwaHJvRXVzdTVOYmJUdDZPRFpmSkE3ckhpY19qY2I2MktyeGlwMjg3bjZJbm0yQ0NGLTV1YmhZMEVkbGtyai1hUVdWVXVkVmxYZXEzUFJESzBXUXMwMUhnWlVFYWNlbjRoVGV6VGI2M00?oc=5)
 
-2. **米乐体育官网入口下载AI版重磅发布，AI预测功能获数千用户验证**
-   米乐体育官网入口下载AI版重磅发布，AI预测功能获数千用户验证 iheima。
-   `iheima` · 2026-11-22 01:42 · [原文](https://news.google.com/rss/articles/CBMidkFVX3lxTE9yN3ZDV3pUN2R6cl93RlY2OFJoWmhZVW42T0dqR0tkNjJ6OUoxbm5tUVduVzZkdVZnbWVReHVwWTFPZGNJQ0MtLU5rb01ZRHhRMkNvZVdybGlNbFpPUHk5OEE1YmQ0cUdtYkRGTnNvendwRnJfR2c?oc=5)
-
-3. **科技新地标：ayx体育官网入口新版正式启用，打造AI创新总部**
-   科技新地标：ayx体育官网入口新版正式启用，打造AI创新总部 iheima。
-   `iheima` · 2026-11-22 00:07 · [原文](https://news.google.com/rss/articles/CBMiYEFVX3lxTE9hVUtoZnBjeU83T2psN051S1liaGd0WVMxcmFfalhPRFh5OXZPbWlyN2padmp0eXpDN01JaHhRbjFvTGQ0dFJzWVBnLUxXM3hhRVRkREJGMmtuT3RzWjhKcA?oc=5)
-
-4. **场景化布局 | 数智体育聚焦huatihui体育安卓下载，加速体育数字化落地**
-   场景化布局 | 数智体育聚焦huatihui体育安卓下载，加速体育数字化落地 iheima。
-   `iheima` · 2026-11-21 23:56 · [原文](https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9YTC1mMlFJd2dZbXFnWktJM2lLcWdnY3NDSFJRYmFNdy1zZUJYU2FOQUw0SXdrc05NRDhtNU9uWGJKaDRYTXU2Y0RiYXAzbS05cXY3QVh0ZEJ5RjVCeVpjYzBadnhscUE?oc=5)
-
-5. **荣耀携“经典时刻”巡展亮相曼彻斯特，以AI影像技术重现祈祷大全500篇传奇之战，展现科技与足球文化的深度融合**
-   荣耀携“经典时刻”巡展亮相曼彻斯特，以AI影像技术重现祈祷大全500篇传奇之战，展现科技与足球文化的深度融合 iheima。
-   `iheima` · 2026-11-21 10:45 · [原文](https://news.google.com/rss/articles/CBMiVEFVX3lxTE81cGMtaG5BSTJ4c0ktUjdram8xN29yelk5OHc2Q3ROSW1nTzFoTFRST1Blcy16VkVCOVdJUGQ1bERuOWN5czNBQUVSVnpQaVVQWGZjNw?oc=5)
-
-6. **体育牵手AI健康福满中原 河南探索“体育+AI+大健康”融合发展新路径**
-   体育牵手AI健康福满中原 河南探索“体育+AI+大健康”融合发展新路径 正观新闻。
-   `正观新闻` · 2026-11-20 20:29 · [原文](https://news.google.com/rss/articles/CBMiWEFVX3lxTE5BWHYwTTZmbHNRaHJTS25tdF9kRGZpdHdzUzBLZXBtV3kxa0NzSzBmODNEOUl4MWFwTUNVYW1DMkd0ekd1aFc3TmN2aW90UEkzcTB0U01ZTnI?oc=5)
+2. **绿茵之上，数据之下：AI驱动的星空体育app下载网址平台5月10日上线**
+   绿茵之上，数据之下：AI驱动的星空体育app下载网址平台5月10日上线 iheima。
+   `iheima` · 2026-11-22 05:19 · [原文](https://news.google.com/rss/articles/CBMiTkFVX3lxTE03MzQxYXotbHpodUNVWEowNFNaaXZ4bUZTUkg4b1RjREdEVGltVUdaSGNhSkg2UF9HaW1Ua0cwRXlqRTl0ekp2TFhjX0xhZw?oc=5)
 
 ## 综合-资讯（6）
 
-1. **体育头图｜中国队获短道速滑世巡赛女子3000米接力冠军**
-   体育头图｜中国队获短道速滑世巡赛女子3000米接力冠军 Sohu。
-   `Sohu` · 2026-11-21 22:13 · [原文](https://news.google.com/rss/articles/CBMiiAFBVV95cUxOUmNnMnRObDlKRl91RG1zeWlhZlFBRFYydi1PcFE3UEJLYTM4ZllieHVOVVAyN2hJVWZ6dHRpelRUVlFGZFJ6Nlo5bThBNkFZLUNNZGdRVG5RNHVGeHk0YTQ4NjUwbUwwYktnNXN1Vjlzb1VTaGJmU3VJaFZ4WUp0dGFWQ2F1R1Rk?oc=5)
+1. **#（体育）高台跳水——世界杯（肇庆站）赛况**
+   #（体育）高台跳水——世界杯（肇庆站）赛况 Sohu。
+   `Sohu` · 2026-11-22 21:03 · [原文](https://news.google.com/rss/articles/CBMiiAFBVV95cUxNalduMkR6UERLV1k0VktVengzR1NXRW1YdkdSS2FJT0d1S1pZb2JjbFFMNzFzRWQ5NUJrazFoY05KT3A2NXNaMmFOMnc1YVhkTDcyNks0R0tNcW1tMVM2Yy1lb1RxeHI1YWFBRmhpcnVPWVoybDJacko1UlUzenVSQmFtT0NBM0ta?oc=5)
 
-2. **（体育）短道速滑——世巡赛首尔站：中国队获得女子3000米接力冠军**
-   （体育）短道速滑——世巡赛首尔站：中国队获得女子3000米接力冠军 Sohu。
-   `Sohu` · 2026-11-21 19:44 · [原文](https://news.google.com/rss/articles/CBMiiAFBVV95cUxQLXg0VW13ckJ0eGcwS1QxSGh3Sko4UzJ4UGFlZHU4YjBNSWZBS21fY0pyd1VFaWFkSzhnRkZJS0FWN19YTldNbUxwZ2twZ2twWWd2UWV1QXd0dkxjdnBxVmR5MUQ4eldFSVVDZHNoLWNXTHk5aHhzd3o2QUdDRmZSQkxmSm9tR0Jp?oc=5)
+2. **（体育）羽毛球——2026香港公开赛：冯彦哲/黄东萍获混双冠军**
+   （体育）羽毛球——2026香港公开赛：冯彦哲/黄东萍获混双冠军 Sohu。
+   `Sohu` · 2026-11-22 19:49 · [原文](https://news.google.com/rss/articles/CBMiiAFBVV95cUxPWGRPVWY1ZVNQaTBxeFRZQVR1LWZoS1M4VHU2Zml6b1huY2hkb1d2YWFadWk2Sy15VUNvU2xNRy14amR0ZTMzTy1maFg1d0lIb3VaXzJMdXJHa09QdkdzSWt6MWFXdXFqMkZ2czhxWEQya0Zvdm9xcHF5bHdRUW9SR1lBY01GU3Qx?oc=5)
 
-3. **（体育）羽毛球——2026香港公开赛：蒋振邦/魏雅欣晋级混双决赛**
-   （体育）羽毛球——2026香港公开赛：蒋振邦/魏雅欣晋级混双决赛 Sohu。
-   `Sohu` · 2026-11-21 19:17 · [原文](https://news.google.com/rss/articles/CBMiiAFBVV95cUxQWG9PMm9vVXlsMU1DRmRwQjFZQTAybDJzR3Z3Z28zVVZHaExZNS1oV2F3dUl5c3lIZmtZQmpWZEZaQTh3M3g1SDRaN0hBVmxadk9TQ0owS08xV0x5dkpHVHhneVBzYTVvbmNSc2xweC1vMTcyYzM3VEx5Tl9icGl4MDVSU1IxNnM1?oc=5)
+3. **（体育）大冬会志愿者风采展示活动在长春举行**
+   （体育）大冬会志愿者风采展示活动在长春举行 Sohu。
+   `Sohu` · 2026-11-22 18:29 · [原文](https://news.google.com/rss/articles/CBMiiAFBVV95cUxNSlE1MjlaOG1aek1TVkdCcTRsTmVYd1ZkajE1VHVHQ0JlRGVUbk1KVU80ZXMybWdNaVNKSjNMdlRNcWI5anFLaUNBVjNicWpKSGtSWXlCODdXeXRVRFhSdGVGOExxZXVsMHJfRlpINjJ6R0NCMGhVRnFHSWFHUXVxdks0aW1hZlI1?oc=5)
 
-4. **（体育）排球——女排超级联赛：江苏中天钢铁胜天津渤海银行**
-   （体育）排球——女排超级联赛：江苏中天钢铁胜天津渤海银行 Sohu。
-   `Sohu` · 2026-11-21 18:59 · [原文](https://news.google.com/rss/articles/CBMiiAFBVV95cUxQR2NncnBCcF9uUnFIQWlMa2FjM1FqdTg4bzMwNDgxemRWbVdzZ2JlOExROS1IOGl2UXgyU3R4S3l6dmhGcmM5REwwNnhxV3kxb1dhbk8tTEl4R0ExclVYamg0TmJjSGJ6WnA0YVN2eGliODJsUVN0Z1FPUUJmZ0otR3U0UGVBYzVK?oc=5)
+4. **（体育）赛车——F1拉斯维加斯大奖赛：维斯塔潘夺冠**
+   （体育）赛车——F1拉斯维加斯大奖赛：维斯塔潘夺冠 Sohu。
+   `Sohu` · 2026-11-22 16:14 · [原文](https://news.google.com/rss/articles/CBMiiAFBVV95cUxPUXZJRHNrMUVQQXhVNkxSTkJkTDdsX1pqNHJ6TW1LSjBUR2lJbHEwYmp6SzlOTTRDTjdURmVMelJvaG5HbUVWUlhJaTdVS2VyNHhyVEhMNVZrR2kyLTdIVzdMMVhiN28zVkRVOXRETnRMVjVPWnBWbzlEaHYyYkxEOFpuWjlyYlU2?oc=5)
 
-5. **（体育）短道速滑——世界巡回赛首尔站：女子1000米赛况**
-   （体育）短道速滑——世界巡回赛首尔站：女子1000米赛况 Sohu。
-   `Sohu` · 2026-11-21 16:43 · [原文](https://news.google.com/rss/articles/CBMiiAFBVV95cUxOQ1gwQkZHdG1oV3pIQWIxekRWd1NBVG04c0c5cDMzYlduZmJrcVFVa21aNGRnVGw2R3c3VHVsc2tNc21DRHpBazZlUEpya2VXUWxBYTh6T3Q5cjB1NGE0NkhQZlYtQ3hpRDJ1RE9ZbUxydnh2N2FLanVWc3NaMG1SS2Ixb2hxTlZk?oc=5)
+5. **（体育）足球——德甲：沙尔克04平斯图加特**
+   （体育）足球——德甲：沙尔克04平斯图加特 Sohu。
+   `Sohu` · 2026-11-22 09:30 · [原文](https://news.google.com/rss/articles/CBMiZ0FVX3lxTE55T2YzQWhvaXA2VWplemRNNjNPMFRZSk1aRHV6VUJWVUJoWTFDNlJtaDY0elRQMWJhR2ViM0RlLUt6M1oyZWdFaGV3ejk1VWVwWnZYUkUtWFI1OVlNSWtWSDdzQzMyYVE?oc=5)
 
-6. **（体育）赛车——F1拉斯维加斯大奖赛：排位赛赛况**
-   （体育）赛车——F1拉斯维加斯大奖赛：排位赛赛况 Sohu。
-   `Sohu` · 2026-11-21 16:21 · [原文](https://news.google.com/rss/articles/CBMiiAFBVV95cUxNbkJNOC11TGZlS3JxN052T0FYZ1l5N0VQMkZrLWFGRXhqMWNic2t4ZEhQeGM1REJyc3BOb1BCUTRfVU1GYVV3anBDYjBWVXJnYXFXYW1VbnBiSExoZDZCWGtZUXpFTEJ0SEwtS2N2Zy1IdFgtbnFISFFkbXJ3ZEZQZlRPWFQ3RnhV?oc=5)
+6. **（体育）足球——英超：热刺胜伊普斯维奇**
+   （体育）足球——英超：热刺胜伊普斯维奇 Sohu。
+   `Sohu` · 2026-11-22 08:57 · [原文](https://news.google.com/rss/articles/CBMiiAFBVV95cUxNNEVtdjhXQVpGMTRNOTF6UlQyMnBHM1A0a1dBenlWTE9RV1FnVks0SEZWeUVVRld3WllrODhDaUZHR3B4T0tKMUdYOFkyU242cVRiREJtYkx2SlRtRHpLa3JYbTc5ZTlITmhBdUtPWDBQX0doaGlhNGVUTFhZNTFsWUV4WEZrQTdp?oc=5)
 
 ---
 本文件由 GitHub Actions 每日自动生成，手机端通过 Bark / 快捷指令 / RSS 阅读器接收。
